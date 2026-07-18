@@ -1,0 +1,16 @@
+hospital_id,name,address,city,state,pincode,phone,email,website,beds,established,type,accreditation,rating,reviews_count
+HOSP001,Manipal Hospital,"46, Jayanagar",Bengaluru,Karnataka,560001,+91-80-45409096,info@manipalhospitalbengaluru.com,https://www.manipalhospitalbengaluru.com,270,1986,Multi-Specialty,NABH,4.5,2641
+HOSP002,Fortis Hospital,"16, Hebbal",Bengaluru,Karnataka,560017,+91-80-66592618,info@fortishospitalbengaluru.com,https://www.fortishospitalbengaluru.com,1067,1984,Multi-Specialty,"NABL,NABH",4.4,2627
+HOSP003,Apollo Hospitals,"59, Hebbal",Bengaluru,Karnataka,560034,+91-80-29552132,info@apollohospitalsbengaluru.com,https://www.apollohospitalsbengaluru.com,637,1964,General,None,4.1,1985
+HOSP004,Narayana Health,"42, Koramangala",Bengaluru,Karnataka,560068,+91-80-31126334,info@narayanahealthbengaluru.com,https://www.narayanahealthbengaluru.com,489,2000,Super-Specialty,JCI,4.6,4347
+HOSP005,Columbia Asia Hospital,"65, MG Road",Bengaluru,Karnataka,560034,+91-80-88914398,info@columbiaasiahospitalbengaluru.com,https://www.columbiaasiahospitalbengaluru.com,1330,1980,General,NABH,5.0,3804
+HOSP006,BGS Gleneagles,"70, Whitefield",Bengaluru,Karnataka,560066,+91-80-26416177,info@bgsgleneaglesbengaluru.com,https://www.bgsgleneaglesbengaluru.com,1228,2017,General,None,4.5,3719
+HOSP007,Sakra World Hospital,"10, Hebbal",Bengaluru,Karnataka,560017,+91-80-25926395,info@sakraworldhospitalbengaluru.com,https://www.sakraworldhospitalbengaluru.com,1335,1979,General,JCI,4.0,6416
+HOSP008,Aster CMI Hospital,"46, Whitefield",Bengaluru,Karnataka,560066,+91-80-99658296,info@astercmihospitalbengaluru.com,https://www.astercmihospitalbengaluru.com,1173,1992,Maternity,"NABL,NABH",4.4,1400
+HOSP009,St. John's Hospital,"40, Whitefield",Bengaluru,Karnataka,560034,+91-80-36832716,info@st.johnshospitalbengaluru.com,https://www.st.johnshospitalbengaluru.com,781,1978,Multi-Specialty,NABH,4.8,2379
+HOSP010,NIMHANS,"46, MG Road",Bengaluru,Karnataka,560001,+91-80-66971238,info@nimhansbengaluru.com,https://www.nimhansbengaluru.com,620,1995,Children,JCI,4.7,4234
+HOSP011,Victoria Hospital,"24, Indiranagar",Bengaluru,Karnataka,560076,+91-80-86235367,info@victoriahospitalbengaluru.com,https://www.victoriahospitalbengaluru.com,794,1996,Super-Specialty,None,4.2,7500
+HOSP012,Bowring & Lady Curzon Hospital,"34, Indiranagar",Bengaluru,Karnataka,560066,+91-80-33245144,info@bowring&ladycurzonhospitalbengaluru.com,https://www.bowring&ladycurzonhospitalbengaluru.com,1149,1991,Multi-Specialty,None,4.7,1225
+HOSP013,Sparsh Hospital,"20, Indiranagar",Bengaluru,Karnataka,560017,+91-80-75625571,info@sparshhospitalbengaluru.com,https://www.sparshhospitalbengaluru.com,523,1998,Multi-Specialty,"NABL,NABH",3.7,7736
+HOSP014,Cloudnine Hospital,"15, Whitefield",Bengaluru,Karnataka,560001,+91-80-52854180,info@cloudninehospitalbengaluru.com,https://www.cloudninehospitalbengaluru.com,1058,1970,Super-Specialty,"NABL,NABH",4.6,3768
+HOSP015,Motherhood Hospital,"66, Yeshwanthpur",Bengaluru,Karnataka,560017,+91-80-41927656,info@motherhoodhospitalbengaluru.com,https://www.motherhoodhospitalbengaluru.com,234,1986,General,NABH,3.9,1074

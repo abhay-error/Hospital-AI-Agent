@@ -1,0 +1,92 @@
+contact_id,hospital_id,hospital_name,contact_type,name,phone,email,available_hours,is_primary
+CON00001,HOSP001,Manipal Hospital,Ambulance,Ambulance,+91-80-54044755,ambulance@manipalhospital.com,24/7,False
+CON00002,HOSP001,Manipal Hospital,Blood Bank,Blood Bank,+91-80-54538892,blood.bank@manipalhospital.com,Mon-Sat 8AM-8PM,False
+CON00003,HOSP001,Manipal Hospital,Emergency,Emergency,+91-80-94052081,emergency@manipalhospital.com,24/7,False
+CON00004,HOSP001,Manipal Hospital,Appointment Desk,Appointment Desk,+91-80-52798966,appointment.desk@manipalhospital.com,Mon-Sat 8AM-8PM,False
+CON00005,HOSP001,Manipal Hospital,Pharmacy,Pharmacy,+91-80-40747277,pharmacy@manipalhospital.com,Mon-Sat 8AM-8PM,False
+CON00006,HOSP001,Manipal Hospital,Reception,Reception,+91-80-92167808,reception@manipalhospital.com,Mon-Sat 8AM-8PM,True
+CON00007,HOSP002,Fortis Hospital,Ambulance,Ambulance,+91-80-30831551,ambulance@fortishospital.com,24/7,False
+CON00008,HOSP002,Fortis Hospital,Billing,Billing,+91-80-31261756,billing@fortishospital.com,Mon-Sat 8AM-8PM,False
+CON00009,HOSP002,Fortis Hospital,Emergency,Emergency,+91-80-62604258,emergency@fortishospital.com,24/7,False
+CON00010,HOSP002,Fortis Hospital,Pharmacy,Pharmacy,+91-80-34614440,pharmacy@fortishospital.com,Mon-Sat 8AM-8PM,False
+CON00011,HOSP002,Fortis Hospital,Appointment Desk,Appointment Desk,+91-80-44467490,appointment.desk@fortishospital.com,Mon-Sat 8AM-8PM,False
+CON00012,HOSP002,Fortis Hospital,Blood Bank,Blood Bank,+91-80-23733408,blood.bank@fortishospital.com,Mon-Sat 8AM-8PM,False
+CON00013,HOSP002,Fortis Hospital,Reception,Reception,+91-80-37991540,reception@fortishospital.com,Mon-Sat 8AM-8PM,True
+CON00014,HOSP003,Apollo Hospitals,Emergency,Emergency,+91-80-70671702,emergency@apollohospitals.com,24/7,False
+CON00015,HOSP003,Apollo Hospitals,Blood Bank,Blood Bank,+91-80-41952715,blood.bank@apollohospitals.com,Mon-Sat 8AM-8PM,False
+CON00016,HOSP003,Apollo Hospitals,Billing,Billing,+91-80-76695965,billing@apollohospitals.com,Mon-Sat 8AM-8PM,False
+CON00017,HOSP003,Apollo Hospitals,Reception,Reception,+91-80-44586898,reception@apollohospitals.com,Mon-Sat 8AM-8PM,True
+CON00018,HOSP003,Apollo Hospitals,Pharmacy,Pharmacy,+91-80-23381325,pharmacy@apollohospitals.com,Mon-Sat 8AM-8PM,False
+CON00019,HOSP003,Apollo Hospitals,Ambulance,Ambulance,+91-80-91598602,ambulance@apollohospitals.com,24/7,False
+CON00020,HOSP004,Narayana Health,Appointment Desk,Appointment Desk,+91-80-68723935,appointment.desk@narayanahealth.com,Mon-Sat 8AM-8PM,False
+CON00021,HOSP004,Narayana Health,Pharmacy,Pharmacy,+91-80-49436909,pharmacy@narayanahealth.com,Mon-Sat 8AM-8PM,False
+CON00022,HOSP004,Narayana Health,Billing,Billing,+91-80-97471484,billing@narayanahealth.com,Mon-Sat 8AM-8PM,False
+CON00023,HOSP004,Narayana Health,Emergency,Emergency,+91-80-46473712,emergency@narayanahealth.com,24/7,False
+CON00024,HOSP004,Narayana Health,Ambulance,Ambulance,+91-80-68871356,ambulance@narayanahealth.com,24/7,False
+CON00025,HOSP004,Narayana Health,Reception,Reception,+91-80-65379941,reception@narayanahealth.com,Mon-Sat 8AM-8PM,True
+CON00026,HOSP004,Narayana Health,Blood Bank,Blood Bank,+91-80-75393942,blood.bank@narayanahealth.com,Mon-Sat 8AM-8PM,False
+CON00027,HOSP005,Columbia Asia Hospital,Billing,Billing,+91-80-99525337,billing@columbiaasiahospital.com,Mon-Sat 8AM-8PM,False
+CON00028,HOSP005,Columbia Asia Hospital,Emergency,Emergency,+91-80-54433768,emergency@columbiaasiahospital.com,24/7,False
+CON00029,HOSP005,Columbia Asia Hospital,Blood Bank,Blood Bank,+91-80-85278851,blood.bank@columbiaasiahospital.com,Mon-Sat 8AM-8PM,False
+CON00030,HOSP005,Columbia Asia Hospital,Ambulance,Ambulance,+91-80-93874663,ambulance@columbiaasiahospital.com,24/7,False
+CON00031,HOSP005,Columbia Asia Hospital,Pharmacy,Pharmacy,+91-80-37386316,pharmacy@columbiaasiahospital.com,Mon-Sat 8AM-8PM,False
+CON00032,HOSP005,Columbia Asia Hospital,Appointment Desk,Appointment Desk,+91-80-92398186,appointment.desk@columbiaasiahospital.com,Mon-Sat 8AM-8PM,False
+CON00033,HOSP005,Columbia Asia Hospital,Reception,Reception,+91-80-81037038,reception@columbiaasiahospital.com,Mon-Sat 8AM-8PM,True
+CON00034,HOSP006,BGS Gleneagles,Billing,Billing,+91-80-53777456,billing@bgsgleneagles.com,Mon-Sat 8AM-8PM,False
+CON00035,HOSP006,BGS Gleneagles,Appointment Desk,Appointment Desk,+91-80-54419057,appointment.desk@bgsgleneagles.com,Mon-Sat 8AM-8PM,False
+CON00036,HOSP006,BGS Gleneagles,Ambulance,Ambulance,+91-80-35837635,ambulance@bgsgleneagles.com,24/7,False
+CON00037,HOSP006,BGS Gleneagles,Blood Bank,Blood Bank,+91-80-64741726,blood.bank@bgsgleneagles.com,Mon-Sat 8AM-8PM,False
+CON00038,HOSP006,BGS Gleneagles,Pharmacy,Pharmacy,+91-80-20086329,pharmacy@bgsgleneagles.com,Mon-Sat 8AM-8PM,False
+CON00039,HOSP006,BGS Gleneagles,Emergency,Emergency,+91-80-65865951,emergency@bgsgleneagles.com,24/7,False
+CON00040,HOSP007,Sakra World Hospital,Pharmacy,Pharmacy,+91-80-47722682,pharmacy@sakraworldhospital.com,Mon-Sat 8AM-8PM,False
+CON00041,HOSP007,Sakra World Hospital,Blood Bank,Blood Bank,+91-80-31855877,blood.bank@sakraworldhospital.com,Mon-Sat 8AM-8PM,False
+CON00042,HOSP007,Sakra World Hospital,Emergency,Emergency,+91-80-29423512,emergency@sakraworldhospital.com,24/7,False
+CON00043,HOSP007,Sakra World Hospital,Ambulance,Ambulance,+91-80-32405086,ambulance@sakraworldhospital.com,24/7,False
+CON00044,HOSP007,Sakra World Hospital,Appointment Desk,Appointment Desk,+91-80-80417022,appointment.desk@sakraworldhospital.com,Mon-Sat 8AM-8PM,False
+CON00045,HOSP007,Sakra World Hospital,Billing,Billing,+91-80-95478837,billing@sakraworldhospital.com,Mon-Sat 8AM-8PM,False
+CON00046,HOSP007,Sakra World Hospital,Reception,Reception,+91-80-61997089,reception@sakraworldhospital.com,Mon-Sat 8AM-8PM,True
+CON00047,HOSP008,Aster CMI Hospital,Reception,Reception,+91-80-38873230,reception@astercmihospital.com,Mon-Sat 8AM-8PM,True
+CON00048,HOSP008,Aster CMI Hospital,Billing,Billing,+91-80-97814386,billing@astercmihospital.com,Mon-Sat 8AM-8PM,False
+CON00049,HOSP008,Aster CMI Hospital,Ambulance,Ambulance,+91-80-59933348,ambulance@astercmihospital.com,24/7,False
+CON00050,HOSP009,St. John's Hospital,Pharmacy,Pharmacy,+91-80-71867503,pharmacy@st.john'shospital.com,Mon-Sat 8AM-8PM,False
+CON00051,HOSP009,St. John's Hospital,Reception,Reception,+91-80-85119257,reception@st.john'shospital.com,Mon-Sat 8AM-8PM,True
+CON00052,HOSP009,St. John's Hospital,Billing,Billing,+91-80-59058032,billing@st.john'shospital.com,Mon-Sat 8AM-8PM,False
+CON00053,HOSP009,St. John's Hospital,Blood Bank,Blood Bank,+91-80-83421633,blood.bank@st.john'shospital.com,Mon-Sat 8AM-8PM,False
+CON00054,HOSP010,NIMHANS,Ambulance,Ambulance,+91-80-23074992,ambulance@nimhans.com,24/7,False
+CON00055,HOSP010,NIMHANS,Reception,Reception,+91-80-87643760,reception@nimhans.com,Mon-Sat 8AM-8PM,True
+CON00056,HOSP010,NIMHANS,Billing,Billing,+91-80-26602203,billing@nimhans.com,Mon-Sat 8AM-8PM,False
+CON00057,HOSP010,NIMHANS,Pharmacy,Pharmacy,+91-80-84592861,pharmacy@nimhans.com,Mon-Sat 8AM-8PM,False
+CON00058,HOSP010,NIMHANS,Appointment Desk,Appointment Desk,+91-80-23419166,appointment.desk@nimhans.com,Mon-Sat 8AM-8PM,False
+CON00059,HOSP010,NIMHANS,Emergency,Emergency,+91-80-28362597,emergency@nimhans.com,24/7,False
+CON00060,HOSP011,Victoria Hospital,Reception,Reception,+91-80-56049296,reception@victoriahospital.com,Mon-Sat 8AM-8PM,True
+CON00061,HOSP011,Victoria Hospital,Blood Bank,Blood Bank,+91-80-84966158,blood.bank@victoriahospital.com,Mon-Sat 8AM-8PM,False
+CON00062,HOSP011,Victoria Hospital,Pharmacy,Pharmacy,+91-80-36521439,pharmacy@victoriahospital.com,Mon-Sat 8AM-8PM,False
+CON00063,HOSP011,Victoria Hospital,Ambulance,Ambulance,+91-80-42615600,ambulance@victoriahospital.com,24/7,False
+CON00064,HOSP011,Victoria Hospital,Billing,Billing,+91-80-76111050,billing@victoriahospital.com,Mon-Sat 8AM-8PM,False
+CON00065,HOSP011,Victoria Hospital,Emergency,Emergency,+91-80-61601938,emergency@victoriahospital.com,24/7,False
+CON00066,HOSP011,Victoria Hospital,Appointment Desk,Appointment Desk,+91-80-97253116,appointment.desk@victoriahospital.com,Mon-Sat 8AM-8PM,False
+CON00067,HOSP012,Bowring & Lady Curzon Hospital,Emergency,Emergency,+91-80-76351018,emergency@bowring&ladycurzonhospital.com,24/7,False
+CON00068,HOSP012,Bowring & Lady Curzon Hospital,Appointment Desk,Appointment Desk,+91-80-98498976,appointment.desk@bowring&ladycurzonhospital.com,Mon-Sat 8AM-8PM,False
+CON00069,HOSP012,Bowring & Lady Curzon Hospital,Ambulance,Ambulance,+91-80-20412993,ambulance@bowring&ladycurzonhospital.com,24/7,False
+CON00070,HOSP012,Bowring & Lady Curzon Hospital,Billing,Billing,+91-80-58871298,billing@bowring&ladycurzonhospital.com,Mon-Sat 8AM-8PM,False
+CON00071,HOSP012,Bowring & Lady Curzon Hospital,Blood Bank,Blood Bank,+91-80-61503531,blood.bank@bowring&ladycurzonhospital.com,Mon-Sat 8AM-8PM,False
+CON00072,HOSP012,Bowring & Lady Curzon Hospital,Pharmacy,Pharmacy,+91-80-62843882,pharmacy@bowring&ladycurzonhospital.com,Mon-Sat 8AM-8PM,False
+CON00073,HOSP012,Bowring & Lady Curzon Hospital,Reception,Reception,+91-80-30081310,reception@bowring&ladycurzonhospital.com,Mon-Sat 8AM-8PM,True
+CON00074,HOSP013,Sparsh Hospital,Ambulance,Ambulance,+91-80-53211959,ambulance@sparshhospital.com,24/7,False
+CON00075,HOSP013,Sparsh Hospital,Billing,Billing,+91-80-97184177,billing@sparshhospital.com,Mon-Sat 8AM-8PM,False
+CON00076,HOSP013,Sparsh Hospital,Reception,Reception,+91-80-23069307,reception@sparshhospital.com,Mon-Sat 8AM-8PM,True
+CON00077,HOSP013,Sparsh Hospital,Appointment Desk,Appointment Desk,+91-80-32731812,appointment.desk@sparshhospital.com,Mon-Sat 8AM-8PM,False
+CON00078,HOSP013,Sparsh Hospital,Emergency,Emergency,+91-80-23486290,emergency@sparshhospital.com,24/7,False
+CON00079,HOSP013,Sparsh Hospital,Pharmacy,Pharmacy,+91-80-39886583,pharmacy@sparshhospital.com,Mon-Sat 8AM-8PM,False
+CON00080,HOSP013,Sparsh Hospital,Blood Bank,Blood Bank,+91-80-81021283,blood.bank@sparshhospital.com,Mon-Sat 8AM-8PM,False
+CON00081,HOSP014,Cloudnine Hospital,Billing,Billing,+91-80-54153051,billing@cloudninehospital.com,Mon-Sat 8AM-8PM,False
+CON00082,HOSP014,Cloudnine Hospital,Blood Bank,Blood Bank,+91-80-66522496,blood.bank@cloudninehospital.com,Mon-Sat 8AM-8PM,False
+CON00083,HOSP014,Cloudnine Hospital,Emergency,Emergency,+91-80-51896260,emergency@cloudninehospital.com,24/7,False
+CON00084,HOSP014,Cloudnine Hospital,Appointment Desk,Appointment Desk,+91-80-75223953,appointment.desk@cloudninehospital.com,Mon-Sat 8AM-8PM,False
+CON00085,HOSP014,Cloudnine Hospital,Pharmacy,Pharmacy,+91-80-74037399,pharmacy@cloudninehospital.com,Mon-Sat 8AM-8PM,False
+CON00086,HOSP015,Motherhood Hospital,Appointment Desk,Appointment Desk,+91-80-39157917,appointment.desk@motherhoodhospital.com,Mon-Sat 8AM-8PM,False
+CON00087,HOSP015,Motherhood Hospital,Ambulance,Ambulance,+91-80-49346866,ambulance@motherhoodhospital.com,24/7,False
+CON00088,HOSP015,Motherhood Hospital,Billing,Billing,+91-80-37337062,billing@motherhoodhospital.com,Mon-Sat 8AM-8PM,False
+CON00089,HOSP015,Motherhood Hospital,Blood Bank,Blood Bank,+91-80-88106335,blood.bank@motherhoodhospital.com,Mon-Sat 8AM-8PM,False
+CON00090,HOSP015,Motherhood Hospital,Emergency,Emergency,+91-80-47225398,emergency@motherhoodhospital.com,24/7,False
+CON00091,HOSP015,Motherhood Hospital,Reception,Reception,+91-80-27493167,reception@motherhoodhospital.com,Mon-Sat 8AM-8PM,True

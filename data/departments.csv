@@ -1,0 +1,176 @@
+dept_id,hospital_id,hospital_name,department_name,description,floor,block,head_doctor,contact_ext,opd_timings,beds_allocated,is_active
+DEPT0001,HOSP001,Manipal Hospital,Emergency Medicine,24/7 emergency & trauma care,1,C,Dr. Meena Kumar,460,Mon-Sat 9:00 AM – 5:00 PM,11,True
+DEPT0002,HOSP001,Manipal Hospital,Ophthalmology,Eye care & surgery,2,C,Dr. Meena Rao,545,Mon-Sat 9:00 AM – 5:00 PM,70,True
+DEPT0003,HOSP001,Manipal Hospital,Psychiatry,Mental health & behavioral care,1,B,Dr. Ravi Iyer,572,Mon-Sat 9:00 AM – 5:00 PM,76,True
+DEPT0004,HOSP001,Manipal Hospital,Urology,Urinary tract & kidney care,5,D,Dr. Anita Nair,217,Mon-Sat 9:00 AM – 5:00 PM,69,True
+DEPT0005,HOSP001,Manipal Hospital,Anesthesiology,Surgical anesthesia & pain management,1,A,Dr. Arun Patel,652,Mon-Sat 9:00 AM – 5:00 PM,54,True
+DEPT0006,HOSP001,Manipal Hospital,Pulmonology,Lung & respiratory care,3,A,Dr. Rajesh Singh,700,Mon-Sat 9:00 AM – 5:00 PM,14,True
+DEPT0007,HOSP001,Manipal Hospital,Cardiology,Heart & cardiovascular care,3,A,Dr. Suresh Iyer,713,Mon-Sat 9:00 AM – 5:00 PM,57,True
+DEPT0008,HOSP001,Manipal Hospital,Oncology,Cancer diagnosis & treatment,3,A,Dr. Anita Singh,191,Mon-Sat 9:00 AM – 5:00 PM,53,True
+DEPT0009,HOSP001,Manipal Hospital,Neurology,Brain & nervous system disorders,3,A,Dr. Rajesh Patel,226,Mon-Sat 9:00 AM – 5:00 PM,56,True
+DEPT0010,HOSP002,Fortis Hospital,Emergency Medicine,24/7 emergency & trauma care,2,D,Dr. Anita Kumar,901,Mon-Sat 9:00 AM – 5:00 PM,47,True
+DEPT0011,HOSP002,Fortis Hospital,Oncology,Cancer diagnosis & treatment,2,A,Dr. Rajesh Singh,834,Mon-Sat 9:00 AM – 5:00 PM,11,True
+DEPT0012,HOSP002,Fortis Hospital,Gastroenterology,Digestive system disorders,6,A,Dr. Ravi Iyer,733,Mon-Sat 9:00 AM – 5:00 PM,27,True
+DEPT0013,HOSP002,Fortis Hospital,Anesthesiology,Surgical anesthesia & pain management,6,D,Dr. Suresh Iyer,467,Mon-Sat 9:00 AM – 5:00 PM,48,True
+DEPT0014,HOSP002,Fortis Hospital,Radiology,Imaging & diagnostics,2,D,Dr. Arun Reddy,199,Mon-Sat 9:00 AM – 5:00 PM,37,True
+DEPT0015,HOSP002,Fortis Hospital,Cardiology,Heart & cardiovascular care,4,A,Dr. Anita Kumar,160,Mon-Sat 9:00 AM – 5:00 PM,42,True
+DEPT0016,HOSP002,Fortis Hospital,Dermatology,"Skin, hair & nail care",5,A,Dr. Rajesh Rao,268,Mon-Sat 9:00 AM – 5:00 PM,61,True
+DEPT0017,HOSP002,Fortis Hospital,Pediatrics,Child health & development,1,B,Dr. Suresh Reddy,525,Mon-Sat 9:00 AM – 5:00 PM,75,True
+DEPT0018,HOSP002,Fortis Hospital,Rheumatology,Arthritis & autoimmune care,3,D,Dr. Suresh Iyer,306,Mon-Sat 9:00 AM – 5:00 PM,73,True
+DEPT0019,HOSP002,Fortis Hospital,Pulmonology,Lung & respiratory care,3,B,Dr. Rajesh Rao,881,Mon-Sat 9:00 AM – 5:00 PM,13,True
+DEPT0020,HOSP002,Fortis Hospital,Neurology,Brain & nervous system disorders,5,C,Dr. Anita Singh,193,Mon-Sat 9:00 AM – 5:00 PM,23,True
+DEPT0021,HOSP002,Fortis Hospital,Endocrinology,Hormonal & metabolic disorders,6,B,Dr. Meena Reddy,930,Mon-Sat 9:00 AM – 5:00 PM,50,True
+DEPT0022,HOSP003,Apollo Hospitals,Gastroenterology,Digestive system disorders,2,B,Dr. Suresh Nair,511,Mon-Sat 9:00 AM – 5:00 PM,80,True
+DEPT0023,HOSP003,Apollo Hospitals,Endocrinology,Hormonal & metabolic disorders,4,D,Dr. Arun Kumar,213,Mon-Sat 9:00 AM – 5:00 PM,58,True
+DEPT0024,HOSP003,Apollo Hospitals,Emergency Medicine,24/7 emergency & trauma care,3,B,Dr. Suresh Reddy,830,Mon-Sat 9:00 AM – 5:00 PM,49,True
+DEPT0025,HOSP003,Apollo Hospitals,Pulmonology,Lung & respiratory care,6,C,Dr. Kavita Sharma,248,Mon-Sat 9:00 AM – 5:00 PM,42,True
+DEPT0026,HOSP003,Apollo Hospitals,Plastic Surgery,Reconstructive & cosmetic surgery,2,B,Dr. Kavita Iyer,362,Mon-Sat 9:00 AM – 5:00 PM,47,True
+DEPT0027,HOSP003,Apollo Hospitals,Ophthalmology,Eye care & surgery,6,C,Dr. Priya Iyer,472,Mon-Sat 9:00 AM – 5:00 PM,13,True
+DEPT0028,HOSP003,Apollo Hospitals,Anesthesiology,Surgical anesthesia & pain management,1,D,Dr. Ravi Patel,212,Mon-Sat 9:00 AM – 5:00 PM,79,True
+DEPT0029,HOSP003,Apollo Hospitals,Psychiatry,Mental health & behavioral care,6,A,Dr. Kavita Reddy,550,Mon-Sat 9:00 AM – 5:00 PM,63,True
+DEPT0030,HOSP003,Apollo Hospitals,Radiology,Imaging & diagnostics,1,B,Dr. Anita Patel,310,Mon-Sat 9:00 AM – 5:00 PM,78,True
+DEPT0031,HOSP004,Narayana Health,Neurology,Brain & nervous system disorders,6,A,Dr. Arun Nair,234,Mon-Sat 9:00 AM – 5:00 PM,61,True
+DEPT0032,HOSP004,Narayana Health,Psychiatry,Mental health & behavioral care,1,A,Dr. Meena Sharma,183,Mon-Sat 9:00 AM – 5:00 PM,59,True
+DEPT0033,HOSP004,Narayana Health,Ophthalmology,Eye care & surgery,4,A,Dr. Anita Iyer,651,Mon-Sat 9:00 AM – 5:00 PM,30,True
+DEPT0034,HOSP004,Narayana Health,Gynecology,Women's health & maternity,5,A,Dr. Anita Reddy,582,Mon-Sat 9:00 AM – 5:00 PM,45,True
+DEPT0035,HOSP004,Narayana Health,Anesthesiology,Surgical anesthesia & pain management,3,A,Dr. Priya Rao,586,Mon-Sat 9:00 AM – 5:00 PM,24,True
+DEPT0036,HOSP004,Narayana Health,Gastroenterology,Digestive system disorders,3,A,Dr. Ravi Nair,341,Mon-Sat 9:00 AM – 5:00 PM,55,True
+DEPT0037,HOSP004,Narayana Health,Orthopedics,"Bone, joint & muscle care",4,D,Dr. Suresh Iyer,947,Mon-Sat 9:00 AM – 5:00 PM,45,True
+DEPT0038,HOSP004,Narayana Health,Nephrology,Kidney disease management,3,C,Dr. Meena Rao,689,Mon-Sat 9:00 AM – 5:00 PM,19,True
+DEPT0039,HOSP004,Narayana Health,Urology,Urinary tract & kidney care,4,A,Dr. Anita Kumar,105,Mon-Sat 9:00 AM – 5:00 PM,12,True
+DEPT0040,HOSP004,Narayana Health,Pediatrics,Child health & development,1,D,Dr. Meena Nair,402,Mon-Sat 9:00 AM – 5:00 PM,22,True
+DEPT0041,HOSP004,Narayana Health,Oncology,Cancer diagnosis & treatment,3,B,Dr. Anita Rao,536,Mon-Sat 9:00 AM – 5:00 PM,55,True
+DEPT0042,HOSP005,Columbia Asia Hospital,Anesthesiology,Surgical anesthesia & pain management,6,D,Dr. Kavita Singh,471,Mon-Sat 9:00 AM – 5:00 PM,78,True
+DEPT0043,HOSP005,Columbia Asia Hospital,Plastic Surgery,Reconstructive & cosmetic surgery,4,C,Dr. Priya Kumar,311,Mon-Sat 9:00 AM – 5:00 PM,26,True
+DEPT0044,HOSP005,Columbia Asia Hospital,Gynecology,Women's health & maternity,2,C,Dr. Anita Patel,188,Mon-Sat 9:00 AM – 5:00 PM,48,True
+DEPT0045,HOSP005,Columbia Asia Hospital,Gastroenterology,Digestive system disorders,3,C,Dr. Meena Kumar,910,Mon-Sat 9:00 AM – 5:00 PM,25,True
+DEPT0046,HOSP005,Columbia Asia Hospital,Endocrinology,Hormonal & metabolic disorders,1,D,Dr. Kavita Reddy,420,Mon-Sat 9:00 AM – 5:00 PM,61,True
+DEPT0047,HOSP005,Columbia Asia Hospital,Orthopedics,"Bone, joint & muscle care",5,B,Dr. Priya Rao,154,Mon-Sat 9:00 AM – 5:00 PM,72,True
+DEPT0048,HOSP005,Columbia Asia Hospital,Oncology,Cancer diagnosis & treatment,6,B,Dr. Anita Patel,446,Mon-Sat 9:00 AM – 5:00 PM,19,True
+DEPT0049,HOSP005,Columbia Asia Hospital,Dermatology,"Skin, hair & nail care",4,B,Dr. Ravi Nair,423,Mon-Sat 9:00 AM – 5:00 PM,35,True
+DEPT0050,HOSP005,Columbia Asia Hospital,Cardiology,Heart & cardiovascular care,4,B,Dr. Meena Iyer,460,Mon-Sat 9:00 AM – 5:00 PM,62,True
+DEPT0051,HOSP005,Columbia Asia Hospital,Nephrology,Kidney disease management,5,B,Dr. Kavita Singh,676,Mon-Sat 9:00 AM – 5:00 PM,33,True
+DEPT0052,HOSP005,Columbia Asia Hospital,Psychiatry,Mental health & behavioral care,3,A,Dr. Suresh Rao,328,Mon-Sat 9:00 AM – 5:00 PM,45,True
+DEPT0053,HOSP006,BGS Gleneagles,Cardiology,Heart & cardiovascular care,2,B,Dr. Kavita Patel,719,Mon-Sat 9:00 AM – 5:00 PM,79,True
+DEPT0054,HOSP006,BGS Gleneagles,ENT,"Ear, nose & throat care",5,C,Dr. Anita Nair,937,Mon-Sat 9:00 AM – 5:00 PM,63,True
+DEPT0055,HOSP006,BGS Gleneagles,Neurology,Brain & nervous system disorders,1,C,Dr. Priya Reddy,285,Mon-Sat 9:00 AM – 5:00 PM,54,True
+DEPT0056,HOSP006,BGS Gleneagles,Emergency Medicine,24/7 emergency & trauma care,6,C,Dr. Suresh Patel,902,Mon-Sat 9:00 AM – 5:00 PM,63,True
+DEPT0057,HOSP006,BGS Gleneagles,Psychiatry,Mental health & behavioral care,4,D,Dr. Rajesh Rao,716,Mon-Sat 9:00 AM – 5:00 PM,28,True
+DEPT0058,HOSP006,BGS Gleneagles,Pulmonology,Lung & respiratory care,3,B,Dr. Anita Singh,928,Mon-Sat 9:00 AM – 5:00 PM,24,True
+DEPT0059,HOSP006,BGS Gleneagles,Gynecology,Women's health & maternity,3,C,Dr. Ravi Kumar,565,Mon-Sat 9:00 AM – 5:00 PM,61,True
+DEPT0060,HOSP006,BGS Gleneagles,Plastic Surgery,Reconstructive & cosmetic surgery,2,A,Dr. Suresh Rao,642,Mon-Sat 9:00 AM – 5:00 PM,39,True
+DEPT0061,HOSP006,BGS Gleneagles,Ophthalmology,Eye care & surgery,2,C,Dr. Priya Singh,306,Mon-Sat 9:00 AM – 5:00 PM,40,True
+DEPT0062,HOSP006,BGS Gleneagles,Urology,Urinary tract & kidney care,2,B,Dr. Suresh Reddy,838,Mon-Sat 9:00 AM – 5:00 PM,18,True
+DEPT0063,HOSP006,BGS Gleneagles,Nephrology,Kidney disease management,2,A,Dr. Rajesh Patel,927,Mon-Sat 9:00 AM – 5:00 PM,35,True
+DEPT0064,HOSP006,BGS Gleneagles,Rheumatology,Arthritis & autoimmune care,2,B,Dr. Ravi Patel,836,Mon-Sat 9:00 AM – 5:00 PM,62,True
+DEPT0065,HOSP006,BGS Gleneagles,Pediatrics,Child health & development,6,D,Dr. Rajesh Singh,891,Mon-Sat 9:00 AM – 5:00 PM,75,True
+DEPT0066,HOSP006,BGS Gleneagles,Gastroenterology,Digestive system disorders,4,D,Dr. Kavita Sharma,811,Mon-Sat 9:00 AM – 5:00 PM,55,True
+DEPT0067,HOSP006,BGS Gleneagles,Oncology,Cancer diagnosis & treatment,1,B,Dr. Ravi Iyer,894,Mon-Sat 9:00 AM – 5:00 PM,10,True
+DEPT0068,HOSP006,BGS Gleneagles,Orthopedics,"Bone, joint & muscle care",5,C,Dr. Priya Singh,240,Mon-Sat 9:00 AM – 5:00 PM,67,True
+DEPT0069,HOSP006,BGS Gleneagles,Anesthesiology,Surgical anesthesia & pain management,5,A,Dr. Priya Patel,356,Mon-Sat 9:00 AM – 5:00 PM,76,True
+DEPT0070,HOSP007,Sakra World Hospital,Gastroenterology,Digestive system disorders,5,B,Dr. Meena Sharma,468,Mon-Sat 9:00 AM – 5:00 PM,13,True
+DEPT0071,HOSP007,Sakra World Hospital,ENT,"Ear, nose & throat care",1,B,Dr. Priya Reddy,296,Mon-Sat 9:00 AM – 5:00 PM,38,True
+DEPT0072,HOSP007,Sakra World Hospital,Anesthesiology,Surgical anesthesia & pain management,2,D,Dr. Rajesh Nair,215,Mon-Sat 9:00 AM – 5:00 PM,45,True
+DEPT0073,HOSP007,Sakra World Hospital,Neurology,Brain & nervous system disorders,2,A,Dr. Anita Reddy,214,Mon-Sat 9:00 AM – 5:00 PM,65,True
+DEPT0074,HOSP007,Sakra World Hospital,Oncology,Cancer diagnosis & treatment,4,B,Dr. Priya Iyer,995,Mon-Sat 9:00 AM – 5:00 PM,41,True
+DEPT0075,HOSP008,Aster CMI Hospital,Pediatrics,Child health & development,4,A,Dr. Suresh Iyer,514,Mon-Sat 9:00 AM – 5:00 PM,39,True
+DEPT0076,HOSP008,Aster CMI Hospital,Neurology,Brain & nervous system disorders,1,D,Dr. Arun Iyer,753,Mon-Sat 9:00 AM – 5:00 PM,77,True
+DEPT0077,HOSP008,Aster CMI Hospital,Nephrology,Kidney disease management,4,B,Dr. Anita Rao,344,Mon-Sat 9:00 AM – 5:00 PM,78,True
+DEPT0078,HOSP008,Aster CMI Hospital,Dermatology,"Skin, hair & nail care",1,C,Dr. Rajesh Singh,838,Mon-Sat 9:00 AM – 5:00 PM,31,True
+DEPT0079,HOSP008,Aster CMI Hospital,Psychiatry,Mental health & behavioral care,1,A,Dr. Ravi Sharma,509,Mon-Sat 9:00 AM – 5:00 PM,31,True
+DEPT0080,HOSP008,Aster CMI Hospital,Anesthesiology,Surgical anesthesia & pain management,3,C,Dr. Suresh Rao,457,Mon-Sat 9:00 AM – 5:00 PM,38,True
+DEPT0081,HOSP008,Aster CMI Hospital,Pulmonology,Lung & respiratory care,6,B,Dr. Kavita Patel,513,Mon-Sat 9:00 AM – 5:00 PM,34,True
+DEPT0082,HOSP008,Aster CMI Hospital,Urology,Urinary tract & kidney care,1,D,Dr. Suresh Singh,969,Mon-Sat 9:00 AM – 5:00 PM,64,True
+DEPT0083,HOSP008,Aster CMI Hospital,Gastroenterology,Digestive system disorders,6,A,Dr. Priya Sharma,854,Mon-Sat 9:00 AM – 5:00 PM,59,True
+DEPT0084,HOSP008,Aster CMI Hospital,Plastic Surgery,Reconstructive & cosmetic surgery,3,D,Dr. Arun Singh,708,Mon-Sat 9:00 AM – 5:00 PM,38,True
+DEPT0085,HOSP008,Aster CMI Hospital,ENT,"Ear, nose & throat care",1,C,Dr. Rajesh Reddy,845,Mon-Sat 9:00 AM – 5:00 PM,49,True
+DEPT0086,HOSP008,Aster CMI Hospital,Orthopedics,"Bone, joint & muscle care",2,A,Dr. Arun Nair,580,Mon-Sat 9:00 AM – 5:00 PM,48,True
+DEPT0087,HOSP009,St. John's Hospital,Emergency Medicine,24/7 emergency & trauma care,3,B,Dr. Meena Nair,426,Mon-Sat 9:00 AM – 5:00 PM,22,True
+DEPT0088,HOSP009,St. John's Hospital,Cardiology,Heart & cardiovascular care,6,A,Dr. Ravi Nair,605,Mon-Sat 9:00 AM – 5:00 PM,48,True
+DEPT0089,HOSP009,St. John's Hospital,Neurology,Brain & nervous system disorders,5,B,Dr. Kavita Sharma,957,Mon-Sat 9:00 AM – 5:00 PM,62,True
+DEPT0090,HOSP009,St. John's Hospital,Anesthesiology,Surgical anesthesia & pain management,3,D,Dr. Priya Patel,141,Mon-Sat 9:00 AM – 5:00 PM,22,True
+DEPT0091,HOSP009,St. John's Hospital,Pulmonology,Lung & respiratory care,4,B,Dr. Arun Sharma,631,Mon-Sat 9:00 AM – 5:00 PM,55,True
+DEPT0092,HOSP009,St. John's Hospital,Urology,Urinary tract & kidney care,1,B,Dr. Arun Patel,539,Mon-Sat 9:00 AM – 5:00 PM,35,True
+DEPT0093,HOSP009,St. John's Hospital,Gynecology,Women's health & maternity,6,A,Dr. Priya Nair,941,Mon-Sat 9:00 AM – 5:00 PM,52,True
+DEPT0094,HOSP009,St. John's Hospital,ENT,"Ear, nose & throat care",2,B,Dr. Rajesh Iyer,149,Mon-Sat 9:00 AM – 5:00 PM,52,True
+DEPT0095,HOSP010,NIMHANS,Gastroenterology,Digestive system disorders,1,D,Dr. Ravi Patel,459,Mon-Sat 9:00 AM – 5:00 PM,19,True
+DEPT0096,HOSP010,NIMHANS,Neurology,Brain & nervous system disorders,1,C,Dr. Rajesh Patel,624,Mon-Sat 9:00 AM – 5:00 PM,51,True
+DEPT0097,HOSP010,NIMHANS,Oncology,Cancer diagnosis & treatment,4,D,Dr. Suresh Reddy,213,Mon-Sat 9:00 AM – 5:00 PM,56,True
+DEPT0098,HOSP010,NIMHANS,Rheumatology,Arthritis & autoimmune care,5,A,Dr. Arun Singh,330,Mon-Sat 9:00 AM – 5:00 PM,60,True
+DEPT0099,HOSP010,NIMHANS,Orthopedics,"Bone, joint & muscle care",3,C,Dr. Meena Singh,466,Mon-Sat 9:00 AM – 5:00 PM,10,True
+DEPT0100,HOSP010,NIMHANS,Pulmonology,Lung & respiratory care,5,D,Dr. Anita Iyer,271,Mon-Sat 9:00 AM – 5:00 PM,68,True
+DEPT0101,HOSP011,Victoria Hospital,Neurology,Brain & nervous system disorders,5,D,Dr. Priya Patel,159,Mon-Sat 9:00 AM – 5:00 PM,14,True
+DEPT0102,HOSP011,Victoria Hospital,Orthopedics,"Bone, joint & muscle care",4,B,Dr. Arun Kumar,161,Mon-Sat 9:00 AM – 5:00 PM,29,True
+DEPT0103,HOSP011,Victoria Hospital,Gynecology,Women's health & maternity,6,D,Dr. Anita Reddy,121,Mon-Sat 9:00 AM – 5:00 PM,63,True
+DEPT0104,HOSP011,Victoria Hospital,Urology,Urinary tract & kidney care,3,B,Dr. Ravi Sharma,252,Mon-Sat 9:00 AM – 5:00 PM,62,True
+DEPT0105,HOSP011,Victoria Hospital,Oncology,Cancer diagnosis & treatment,6,B,Dr. Kavita Kumar,920,Mon-Sat 9:00 AM – 5:00 PM,76,True
+DEPT0106,HOSP011,Victoria Hospital,Pediatrics,Child health & development,2,A,Dr. Priya Rao,601,Mon-Sat 9:00 AM – 5:00 PM,44,True
+DEPT0107,HOSP011,Victoria Hospital,Gastroenterology,Digestive system disorders,3,B,Dr. Rajesh Sharma,102,Mon-Sat 9:00 AM – 5:00 PM,26,True
+DEPT0108,HOSP011,Victoria Hospital,Pulmonology,Lung & respiratory care,4,C,Dr. Meena Sharma,892,Mon-Sat 9:00 AM – 5:00 PM,73,True
+DEPT0109,HOSP011,Victoria Hospital,Psychiatry,Mental health & behavioral care,2,D,Dr. Rajesh Kumar,949,Mon-Sat 9:00 AM – 5:00 PM,49,True
+DEPT0110,HOSP011,Victoria Hospital,Emergency Medicine,24/7 emergency & trauma care,5,A,Dr. Rajesh Sharma,576,Mon-Sat 9:00 AM – 5:00 PM,67,True
+DEPT0111,HOSP011,Victoria Hospital,Cardiology,Heart & cardiovascular care,3,B,Dr. Kavita Rao,154,Mon-Sat 9:00 AM – 5:00 PM,18,True
+DEPT0112,HOSP011,Victoria Hospital,Dermatology,"Skin, hair & nail care",4,A,Dr. Arun Nair,992,Mon-Sat 9:00 AM – 5:00 PM,34,True
+DEPT0113,HOSP011,Victoria Hospital,Anesthesiology,Surgical anesthesia & pain management,1,C,Dr. Meena Singh,508,Mon-Sat 9:00 AM – 5:00 PM,30,True
+DEPT0114,HOSP011,Victoria Hospital,ENT,"Ear, nose & throat care",1,D,Dr. Meena Nair,558,Mon-Sat 9:00 AM – 5:00 PM,23,True
+DEPT0115,HOSP011,Victoria Hospital,Plastic Surgery,Reconstructive & cosmetic surgery,5,C,Dr. Suresh Singh,643,Mon-Sat 9:00 AM – 5:00 PM,39,True
+DEPT0116,HOSP011,Victoria Hospital,Nephrology,Kidney disease management,3,B,Dr. Meena Iyer,179,Mon-Sat 9:00 AM – 5:00 PM,75,True
+DEPT0117,HOSP011,Victoria Hospital,Radiology,Imaging & diagnostics,3,A,Dr. Rajesh Singh,356,Mon-Sat 9:00 AM – 5:00 PM,72,True
+DEPT0118,HOSP012,Bowring & Lady Curzon Hospital,Plastic Surgery,Reconstructive & cosmetic surgery,1,D,Dr. Priya Singh,590,Mon-Sat 9:00 AM – 5:00 PM,74,True
+DEPT0119,HOSP012,Bowring & Lady Curzon Hospital,Ophthalmology,Eye care & surgery,2,D,Dr. Meena Reddy,838,Mon-Sat 9:00 AM – 5:00 PM,55,True
+DEPT0120,HOSP012,Bowring & Lady Curzon Hospital,Urology,Urinary tract & kidney care,5,D,Dr. Arun Kumar,803,Mon-Sat 9:00 AM – 5:00 PM,11,True
+DEPT0121,HOSP012,Bowring & Lady Curzon Hospital,Endocrinology,Hormonal & metabolic disorders,3,B,Dr. Arun Nair,808,Mon-Sat 9:00 AM – 5:00 PM,62,True
+DEPT0122,HOSP012,Bowring & Lady Curzon Hospital,Gastroenterology,Digestive system disorders,3,B,Dr. Meena Rao,504,Mon-Sat 9:00 AM – 5:00 PM,39,True
+DEPT0123,HOSP012,Bowring & Lady Curzon Hospital,Gynecology,Women's health & maternity,4,C,Dr. Suresh Patel,345,Mon-Sat 9:00 AM – 5:00 PM,37,True
+DEPT0124,HOSP012,Bowring & Lady Curzon Hospital,Neurology,Brain & nervous system disorders,4,B,Dr. Ravi Reddy,142,Mon-Sat 9:00 AM – 5:00 PM,67,True
+DEPT0125,HOSP012,Bowring & Lady Curzon Hospital,Pediatrics,Child health & development,2,B,Dr. Arun Rao,143,Mon-Sat 9:00 AM – 5:00 PM,11,True
+DEPT0126,HOSP012,Bowring & Lady Curzon Hospital,Nephrology,Kidney disease management,6,A,Dr. Ravi Kumar,426,Mon-Sat 9:00 AM – 5:00 PM,49,True
+DEPT0127,HOSP012,Bowring & Lady Curzon Hospital,Oncology,Cancer diagnosis & treatment,4,D,Dr. Anita Kumar,716,Mon-Sat 9:00 AM – 5:00 PM,53,True
+DEPT0128,HOSP012,Bowring & Lady Curzon Hospital,Psychiatry,Mental health & behavioral care,5,D,Dr. Rajesh Reddy,896,Mon-Sat 9:00 AM – 5:00 PM,31,True
+DEPT0129,HOSP012,Bowring & Lady Curzon Hospital,Rheumatology,Arthritis & autoimmune care,3,D,Dr. Arun Singh,876,Mon-Sat 9:00 AM – 5:00 PM,66,True
+DEPT0130,HOSP012,Bowring & Lady Curzon Hospital,Anesthesiology,Surgical anesthesia & pain management,3,A,Dr. Anita Reddy,500,Mon-Sat 9:00 AM – 5:00 PM,61,True
+DEPT0131,HOSP012,Bowring & Lady Curzon Hospital,Orthopedics,"Bone, joint & muscle care",3,D,Dr. Suresh Kumar,654,Mon-Sat 9:00 AM – 5:00 PM,64,True
+DEPT0132,HOSP012,Bowring & Lady Curzon Hospital,Radiology,Imaging & diagnostics,3,B,Dr. Suresh Patel,587,Mon-Sat 9:00 AM – 5:00 PM,65,True
+DEPT0133,HOSP012,Bowring & Lady Curzon Hospital,Dermatology,"Skin, hair & nail care",2,A,Dr. Rajesh Reddy,344,Mon-Sat 9:00 AM – 5:00 PM,34,True
+DEPT0134,HOSP012,Bowring & Lady Curzon Hospital,Emergency Medicine,24/7 emergency & trauma care,5,D,Dr. Priya Nair,389,Mon-Sat 9:00 AM – 5:00 PM,58,True
+DEPT0135,HOSP013,Sparsh Hospital,Dermatology,"Skin, hair & nail care",3,A,Dr. Meena Nair,870,Mon-Sat 9:00 AM – 5:00 PM,55,True
+DEPT0136,HOSP013,Sparsh Hospital,Rheumatology,Arthritis & autoimmune care,3,D,Dr. Priya Nair,900,Mon-Sat 9:00 AM – 5:00 PM,71,True
+DEPT0137,HOSP013,Sparsh Hospital,Cardiology,Heart & cardiovascular care,3,D,Dr. Arun Sharma,397,Mon-Sat 9:00 AM – 5:00 PM,79,True
+DEPT0138,HOSP013,Sparsh Hospital,Gastroenterology,Digestive system disorders,1,C,Dr. Suresh Patel,452,Mon-Sat 9:00 AM – 5:00 PM,34,True
+DEPT0139,HOSP013,Sparsh Hospital,ENT,"Ear, nose & throat care",3,B,Dr. Suresh Nair,735,Mon-Sat 9:00 AM – 5:00 PM,45,True
+DEPT0140,HOSP013,Sparsh Hospital,Psychiatry,Mental health & behavioral care,1,D,Dr. Suresh Reddy,582,Mon-Sat 9:00 AM – 5:00 PM,54,True
+DEPT0141,HOSP013,Sparsh Hospital,Plastic Surgery,Reconstructive & cosmetic surgery,3,A,Dr. Arun Kumar,289,Mon-Sat 9:00 AM – 5:00 PM,58,True
+DEPT0142,HOSP013,Sparsh Hospital,Emergency Medicine,24/7 emergency & trauma care,2,C,Dr. Suresh Patel,132,Mon-Sat 9:00 AM – 5:00 PM,23,True
+DEPT0143,HOSP013,Sparsh Hospital,Radiology,Imaging & diagnostics,3,C,Dr. Rajesh Sharma,675,Mon-Sat 9:00 AM – 5:00 PM,72,True
+DEPT0144,HOSP013,Sparsh Hospital,Gynecology,Women's health & maternity,6,C,Dr. Ravi Iyer,509,Mon-Sat 9:00 AM – 5:00 PM,27,True
+DEPT0145,HOSP013,Sparsh Hospital,Orthopedics,"Bone, joint & muscle care",5,D,Dr. Rajesh Iyer,307,Mon-Sat 9:00 AM – 5:00 PM,11,True
+DEPT0146,HOSP013,Sparsh Hospital,Anesthesiology,Surgical anesthesia & pain management,5,D,Dr. Ravi Singh,756,Mon-Sat 9:00 AM – 5:00 PM,25,True
+DEPT0147,HOSP013,Sparsh Hospital,Ophthalmology,Eye care & surgery,2,A,Dr. Kavita Rao,203,Mon-Sat 9:00 AM – 5:00 PM,44,True
+DEPT0148,HOSP013,Sparsh Hospital,Oncology,Cancer diagnosis & treatment,2,C,Dr. Suresh Kumar,816,Mon-Sat 9:00 AM – 5:00 PM,65,True
+DEPT0149,HOSP013,Sparsh Hospital,Nephrology,Kidney disease management,4,A,Dr. Priya Kumar,705,Mon-Sat 9:00 AM – 5:00 PM,75,True
+DEPT0150,HOSP013,Sparsh Hospital,Neurology,Brain & nervous system disorders,2,B,Dr. Suresh Patel,406,Mon-Sat 9:00 AM – 5:00 PM,52,True
+DEPT0151,HOSP014,Cloudnine Hospital,Urology,Urinary tract & kidney care,6,B,Dr. Kavita Patel,855,Mon-Sat 9:00 AM – 5:00 PM,63,True
+DEPT0152,HOSP014,Cloudnine Hospital,Plastic Surgery,Reconstructive & cosmetic surgery,1,C,Dr. Meena Patel,113,Mon-Sat 9:00 AM – 5:00 PM,66,True
+DEPT0153,HOSP014,Cloudnine Hospital,Endocrinology,Hormonal & metabolic disorders,4,B,Dr. Ravi Nair,529,Mon-Sat 9:00 AM – 5:00 PM,60,True
+DEPT0154,HOSP014,Cloudnine Hospital,Dermatology,"Skin, hair & nail care",4,B,Dr. Anita Reddy,818,Mon-Sat 9:00 AM – 5:00 PM,25,True
+DEPT0155,HOSP014,Cloudnine Hospital,Anesthesiology,Surgical anesthesia & pain management,1,A,Dr. Suresh Iyer,557,Mon-Sat 9:00 AM – 5:00 PM,51,True
+DEPT0156,HOSP014,Cloudnine Hospital,Emergency Medicine,24/7 emergency & trauma care,2,A,Dr. Rajesh Nair,292,Mon-Sat 9:00 AM – 5:00 PM,49,True
+DEPT0157,HOSP014,Cloudnine Hospital,Gynecology,Women's health & maternity,5,D,Dr. Ravi Singh,763,Mon-Sat 9:00 AM – 5:00 PM,20,True
+DEPT0158,HOSP014,Cloudnine Hospital,Radiology,Imaging & diagnostics,6,B,Dr. Anita Patel,483,Mon-Sat 9:00 AM – 5:00 PM,63,True
+DEPT0159,HOSP015,Motherhood Hospital,Nephrology,Kidney disease management,6,C,Dr. Arun Singh,186,Mon-Sat 9:00 AM – 5:00 PM,60,True
+DEPT0160,HOSP015,Motherhood Hospital,Anesthesiology,Surgical anesthesia & pain management,5,A,Dr. Priya Reddy,254,Mon-Sat 9:00 AM – 5:00 PM,18,True
+DEPT0161,HOSP015,Motherhood Hospital,Ophthalmology,Eye care & surgery,3,A,Dr. Ravi Iyer,557,Mon-Sat 9:00 AM – 5:00 PM,70,True
+DEPT0162,HOSP015,Motherhood Hospital,Endocrinology,Hormonal & metabolic disorders,3,A,Dr. Priya Sharma,185,Mon-Sat 9:00 AM – 5:00 PM,42,True
+DEPT0163,HOSP015,Motherhood Hospital,Plastic Surgery,Reconstructive & cosmetic surgery,2,A,Dr. Priya Kumar,603,Mon-Sat 9:00 AM – 5:00 PM,24,True
+DEPT0164,HOSP015,Motherhood Hospital,ENT,"Ear, nose & throat care",5,D,Dr. Rajesh Iyer,238,Mon-Sat 9:00 AM – 5:00 PM,47,True
+DEPT0165,HOSP015,Motherhood Hospital,Psychiatry,Mental health & behavioral care,5,B,Dr. Kavita Reddy,549,Mon-Sat 9:00 AM – 5:00 PM,19,True
+DEPT0166,HOSP015,Motherhood Hospital,Gynecology,Women's health & maternity,5,B,Dr. Arun Patel,913,Mon-Sat 9:00 AM – 5:00 PM,36,True
+DEPT0167,HOSP015,Motherhood Hospital,Pulmonology,Lung & respiratory care,5,C,Dr. Kavita Sharma,909,Mon-Sat 9:00 AM – 5:00 PM,32,True
+DEPT0168,HOSP015,Motherhood Hospital,Gastroenterology,Digestive system disorders,6,C,Dr. Kavita Kumar,760,Mon-Sat 9:00 AM – 5:00 PM,27,True
+DEPT0169,HOSP015,Motherhood Hospital,Emergency Medicine,24/7 emergency & trauma care,4,B,Dr. Priya Sharma,923,Mon-Sat 9:00 AM – 5:00 PM,75,True
+DEPT0170,HOSP015,Motherhood Hospital,Pediatrics,Child health & development,2,D,Dr. Kavita Singh,526,Mon-Sat 9:00 AM – 5:00 PM,25,True
+DEPT0171,HOSP015,Motherhood Hospital,Orthopedics,"Bone, joint & muscle care",4,D,Dr. Priya Singh,388,Mon-Sat 9:00 AM – 5:00 PM,40,True
+DEPT0172,HOSP015,Motherhood Hospital,Rheumatology,Arthritis & autoimmune care,5,D,Dr. Priya Sharma,108,Mon-Sat 9:00 AM – 5:00 PM,77,True
+DEPT0173,HOSP015,Motherhood Hospital,Cardiology,Heart & cardiovascular care,4,A,Dr. Anita Iyer,360,Mon-Sat 9:00 AM – 5:00 PM,23,True
+DEPT0174,HOSP015,Motherhood Hospital,Dermatology,"Skin, hair & nail care",3,A,Dr. Anita Sharma,129,Mon-Sat 9:00 AM – 5:00 PM,24,True
+DEPT0175,HOSP015,Motherhood Hospital,Neurology,Brain & nervous system disorders,6,B,Dr. Rajesh Sharma,821,Mon-Sat 9:00 AM – 5:00 PM,15,True

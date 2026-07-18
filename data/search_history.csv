@@ -1,0 +1,301 @@
+search_id,session_id,query,results_count,clicked_result,appointment_booked,timestamp,user_location,device
+SRCH000001,cdf9c656-fbe,dialysis center Hebbal,10,False,False,2026-06-12 18:29:37,Jayanagar,Tablet
+SRCH000002,34a732cc-b97,24 hour emergency hospital Whitefield,17,True,False,2026-05-29 11:23:37,Indiranagar,Desktop
+SRCH000003,120dbdb0-4d2,best orthopedic surgeon Koramangala,11,False,False,2026-06-05 10:30:37,Whitefield,Tablet
+SRCH000004,0610e041-d75,mental health psychiatrist consultation,3,True,False,2026-05-31 19:06:37,Yeshwanthpur,Mobile
+SRCH000005,e423834e-f08,gynecologist for pregnancy,12,True,False,2026-06-11 19:48:37,Hebbal,Tablet
+SRCH000006,18d565ca-69f,pediatrician appointment today,20,True,False,2026-06-11 15:48:37,Indiranagar,Mobile
+SRCH000007,63777393-692,eye specialist ophthalmologist appointment,5,True,False,2026-06-18 07:52:37,Jayanagar,Mobile
+SRCH000008,472b43b4-309,dialysis center Hebbal,19,False,True,2026-06-22 08:37:37,Yeshwanthpur,Mobile
+SRCH000009,7c09be72-847,eye specialist ophthalmologist appointment,16,True,False,2026-06-11 06:24:37,Koramangala,Tablet
+SRCH000010,2360115e-1a8,MRI scan cost Bengaluru,3,False,False,2026-06-21 03:33:37,Indiranagar,Mobile
+SRCH000011,2a997f17-294,blood test CBC cost,9,True,True,2026-06-14 01:48:37,Jayanagar,Tablet
+SRCH000012,84c87636-d2d,blood test CBC cost,11,False,True,2026-05-29 22:38:37,Indiranagar,Desktop
+SRCH000013,650d8457-551,pediatrician appointment today,19,True,False,2026-06-25 13:12:37,Whitefield,Tablet
+SRCH000014,7cc295b6-b75,diabetes specialist endocrinologist,20,False,False,2026-05-30 17:30:37,Hebbal,Tablet
+SRCH000015,7a02e09a-076,physiotherapy session near Indiranagar,5,False,False,2026-06-02 02:50:37,Hebbal,Tablet
+SRCH000016,7936296e-68f,MRI scan cost Bengaluru,16,False,False,2026-06-15 01:10:37,Jayanagar,Mobile
+SRCH000017,d54e967c-910,gynecologist for pregnancy,2,False,True,2026-06-22 06:04:37,Whitefield,Mobile
+SRCH000018,b5608268-50a,dialysis center Hebbal,19,False,False,2026-06-23 09:44:37,Indiranagar,Desktop
+SRCH000019,4e374d4a-3d9,blood test CBC cost,8,True,False,2026-06-16 07:48:37,Whitefield,Tablet
+SRCH000020,fdcdb35b-adb,MRI scan cost Bengaluru,3,False,False,2026-06-10 13:56:37,Yeshwanthpur,Mobile
+SRCH000021,ef82a79f-dd2,cancer treatment hospital Bengaluru,8,False,True,2026-06-10 17:01:37,Whitefield,Mobile
+SRCH000022,98494fd7-a2e,diabetes specialist endocrinologist,5,True,False,2026-06-26 14:28:37,Jayanagar,Tablet
+SRCH000023,bec22ebe-76c,24 hour emergency hospital Whitefield,11,False,False,2026-06-26 17:02:37,Whitefield,Mobile
+SRCH000024,16be5af8-637,eye specialist ophthalmologist appointment,10,True,True,2026-06-07 09:22:37,Yeshwanthpur,Mobile
+SRCH000025,753b7734-462,cardiologist near me Bengaluru,11,False,True,2026-06-08 07:21:37,Koramangala,Desktop
+SRCH000026,d2faf5e4-676,24 hour emergency hospital Whitefield,2,True,False,2026-06-08 13:30:37,Jayanagar,Mobile
+SRCH000027,a388590d-7d7,pediatrician appointment today,1,True,True,2026-06-26 18:57:37,Whitefield,Tablet
+SRCH000028,f9dc3493-408,best orthopedic surgeon Koramangala,11,False,False,2026-06-21 14:13:37,Yeshwanthpur,Desktop
+SRCH000029,1003c443-26e,MRI scan cost Bengaluru,11,False,True,2026-06-04 23:06:37,Koramangala,Desktop
+SRCH000030,6f453e36-25d,skin specialist dermatologist,8,False,False,2026-05-29 14:23:37,Indiranagar,Tablet
+SRCH000031,29446deb-fe0,physiotherapy session near Indiranagar,10,True,True,2026-06-12 12:51:37,Jayanagar,Tablet
+SRCH000032,4d31929f-c18,24 hour emergency hospital Whitefield,13,False,False,2026-06-06 12:46:37,Jayanagar,Desktop
+SRCH000033,1c4ad973-120,mental health psychiatrist consultation,5,False,False,2026-06-26 20:49:37,Indiranagar,Desktop
+SRCH000034,aa8a9010-326,diabetes specialist endocrinologist,16,False,False,2026-06-16 06:57:37,Hebbal,Mobile
+SRCH000035,a964968d-f81,diabetes specialist endocrinologist,8,False,False,2026-06-19 07:52:37,Indiranagar,Desktop
+SRCH000036,9955052a-a95,diabetes specialist endocrinologist,2,False,False,2026-06-01 21:59:37,Jayanagar,Tablet
+SRCH000037,7ded0dd5-d7a,physiotherapy session near Indiranagar,8,False,False,2026-06-01 19:21:37,Yeshwanthpur,Desktop
+SRCH000038,1c7f7f02-969,cancer treatment hospital Bengaluru,20,False,False,2026-06-02 07:41:37,Jayanagar,Desktop
+SRCH000039,e657323d-800,gynecologist for pregnancy,13,False,False,2026-06-03 03:37:37,Yeshwanthpur,Mobile
+SRCH000040,70775524-17a,dialysis center Hebbal,5,True,False,2026-06-26 08:42:37,Whitefield,Desktop
+SRCH000041,ab6070e6-068,skin specialist dermatologist,13,False,False,2026-06-20 14:46:37,Jayanagar,Mobile
+SRCH000042,058d90a9-0dd,cardiologist near me Bengaluru,10,False,False,2026-06-01 09:57:37,Hebbal,Desktop
+SRCH000043,46070346-f08,diabetes specialist endocrinologist,13,False,True,2026-06-20 08:00:37,Jayanagar,Desktop
+SRCH000044,b6bd611f-4d1,pediatrician appointment today,15,True,False,2026-06-26 07:41:37,Indiranagar,Tablet
+SRCH000045,5a1d1a00-6b8,24 hour emergency hospital Whitefield,5,False,False,2026-06-09 13:54:37,Yeshwanthpur,Tablet
+SRCH000046,63204453-658,dialysis center Hebbal,19,True,False,2026-06-07 11:06:37,Indiranagar,Mobile
+SRCH000047,0363855d-4a1,cardiologist near me Bengaluru,7,True,False,2026-06-26 05:38:37,Jayanagar,Mobile
+SRCH000048,e93baddd-f21,eye specialist ophthalmologist appointment,7,False,False,2026-05-28 19:47:37,Whitefield,Mobile
+SRCH000049,607dfb3a-cf0,blood test CBC cost,17,True,False,2026-05-28 10:34:37,Koramangala,Desktop
+SRCH000050,5254d49a-f40,eye specialist ophthalmologist appointment,7,True,False,2026-06-16 22:15:37,Whitefield,Mobile
+SRCH000051,10c97238-890,cancer treatment hospital Bengaluru,10,True,True,2026-05-28 20:35:37,Whitefield,Tablet
+SRCH000052,c03ad7c9-a0f,blood test CBC cost,2,False,True,2026-06-09 03:55:37,Hebbal,Desktop
+SRCH000053,08fb0e37-398,24 hour emergency hospital Whitefield,16,True,False,2026-06-12 20:38:37,Hebbal,Desktop
+SRCH000054,2c86b59d-569,pediatrician appointment today,2,True,False,2026-06-26 20:32:37,Koramangala,Desktop
+SRCH000055,03480cd3-f05,mental health psychiatrist consultation,6,False,False,2026-06-18 12:35:37,Jayanagar,Tablet
+SRCH000056,9219e0b9-13e,24 hour emergency hospital Whitefield,6,False,False,2026-06-19 09:03:37,Hebbal,Tablet
+SRCH000057,a9ba4965-a4d,MRI scan cost Bengaluru,17,True,False,2026-06-09 22:47:37,Jayanagar,Desktop
+SRCH000058,12a9fbe4-4cf,neurology consultation Manipal,7,False,True,2026-06-17 19:54:37,Hebbal,Mobile
+SRCH000059,96ea7c29-0aa,pediatrician appointment today,14,False,False,2026-06-26 04:00:37,Jayanagar,Desktop
+SRCH000060,4932aa81-964,dialysis center Hebbal,17,False,True,2026-06-01 10:29:37,Yeshwanthpur,Desktop
+SRCH000061,b06ccce8-857,skin specialist dermatologist,14,False,False,2026-05-30 23:09:37,Jayanagar,Tablet
+SRCH000062,245151ba-339,best orthopedic surgeon Koramangala,1,True,False,2026-06-24 21:42:37,Whitefield,Desktop
+SRCH000063,885e6605-82a,pediatrician appointment today,4,True,False,2026-06-16 16:16:37,Yeshwanthpur,Mobile
+SRCH000064,21587d48-fde,neurology consultation Manipal,13,False,False,2026-06-07 17:56:37,Indiranagar,Mobile
+SRCH000065,75554d79-097,diabetes specialist endocrinologist,14,False,False,2026-06-04 02:07:37,Whitefield,Mobile
+SRCH000066,aeb87a07-75b,eye specialist ophthalmologist appointment,4,True,False,2026-06-01 11:13:37,Jayanagar,Mobile
+SRCH000067,5db1dc39-c49,gynecologist for pregnancy,1,True,False,2026-06-12 08:13:37,Whitefield,Mobile
+SRCH000068,93c7ddf0-9e7,physiotherapy session near Indiranagar,5,False,True,2026-06-07 02:00:37,Whitefield,Tablet
+SRCH000069,b90945be-535,cardiologist near me Bengaluru,8,False,True,2026-06-10 13:01:37,Koramangala,Desktop
+SRCH000070,dc706ce2-ea7,eye specialist ophthalmologist appointment,2,False,False,2026-05-31 16:24:37,Indiranagar,Mobile
+SRCH000071,f96b050f-196,diabetes specialist endocrinologist,2,False,False,2026-06-04 21:12:37,Hebbal,Mobile
+SRCH000072,351cc602-568,cardiologist near me Bengaluru,2,True,False,2026-06-24 21:51:37,Yeshwanthpur,Tablet
+SRCH000073,5e6399d3-a97,neurology consultation Manipal,4,False,False,2026-06-20 07:59:37,Koramangala,Mobile
+SRCH000074,5e29a8ab-221,pediatrician appointment today,2,False,False,2026-06-12 05:06:37,Jayanagar,Tablet
+SRCH000075,d7d01c4e-cac,24 hour emergency hospital Whitefield,8,False,False,2026-06-18 07:50:37,Koramangala,Tablet
+SRCH000076,b04eefb9-de1,mental health psychiatrist consultation,17,True,False,2026-06-23 10:23:37,Yeshwanthpur,Desktop
+SRCH000077,7bd2b44d-22f,MRI scan cost Bengaluru,20,True,False,2026-06-05 23:48:37,Whitefield,Desktop
+SRCH000078,f8dc5640-25a,neurology consultation Manipal,16,False,False,2026-06-02 02:59:37,Indiranagar,Tablet
+SRCH000079,47fb2a82-c43,skin specialist dermatologist,4,True,True,2026-06-18 15:56:37,Jayanagar,Desktop
+SRCH000080,f3d5c5c7-ff8,diabetes specialist endocrinologist,14,False,False,2026-06-09 16:15:37,Jayanagar,Mobile
+SRCH000081,bd508b2d-8f0,24 hour emergency hospital Whitefield,5,True,False,2026-06-25 03:36:37,Whitefield,Desktop
+SRCH000082,c82ddf50-391,mental health psychiatrist consultation,14,True,True,2026-06-06 19:47:37,Whitefield,Tablet
+SRCH000083,b62b153b-3fd,eye specialist ophthalmologist appointment,19,False,False,2026-06-14 15:10:37,Koramangala,Tablet
+SRCH000084,262e90c0-230,best orthopedic surgeon Koramangala,16,False,True,2026-06-06 19:09:37,Indiranagar,Tablet
+SRCH000085,5eba97dc-808,MRI scan cost Bengaluru,10,True,False,2026-06-25 08:07:37,Indiranagar,Mobile
+SRCH000086,a340c7ce-bae,cardiologist near me Bengaluru,1,True,False,2026-06-19 11:36:37,Whitefield,Desktop
+SRCH000087,40d10fea-f44,cardiologist near me Bengaluru,16,True,True,2026-06-06 14:30:37,Hebbal,Mobile
+SRCH000088,246d6e85-3ee,cancer treatment hospital Bengaluru,13,True,False,2026-05-29 19:17:37,Koramangala,Desktop
+SRCH000089,7c38ba27-0a4,skin specialist dermatologist,16,False,True,2026-06-09 06:25:37,Koramangala,Tablet
+SRCH000090,10e28fe2-e8f,blood test CBC cost,1,False,False,2026-05-31 10:13:37,Hebbal,Tablet
+SRCH000091,e793de44-da5,MRI scan cost Bengaluru,13,False,True,2026-06-21 20:18:37,Indiranagar,Desktop
+SRCH000092,c4005d89-ffb,neurology consultation Manipal,3,True,True,2026-06-15 01:22:37,Hebbal,Tablet
+SRCH000093,44052ccd-e47,best orthopedic surgeon Koramangala,5,True,False,2026-06-18 23:56:37,Jayanagar,Desktop
+SRCH000094,a1d41d22-693,skin specialist dermatologist,16,False,False,2026-05-30 18:30:37,Hebbal,Tablet
+SRCH000095,ad5e3ba1-d66,pediatrician appointment today,17,True,False,2026-06-24 19:54:37,Yeshwanthpur,Mobile
+SRCH000096,ed0f08e8-302,mental health psychiatrist consultation,14,True,False,2026-06-04 13:05:37,Indiranagar,Tablet
+SRCH000097,8b9276dc-d03,mental health psychiatrist consultation,8,True,True,2026-06-02 22:24:37,Yeshwanthpur,Tablet
+SRCH000098,e42962d7-b9b,best orthopedic surgeon Koramangala,20,False,False,2026-06-16 17:47:37,Koramangala,Mobile
+SRCH000099,b44c5cc5-6e8,best orthopedic surgeon Koramangala,8,False,True,2026-06-13 16:27:37,Whitefield,Tablet
+SRCH000100,b43054ce-af5,skin specialist dermatologist,13,False,False,2026-06-18 03:20:37,Jayanagar,Desktop
+SRCH000101,611730b7-748,cardiologist near me Bengaluru,14,True,True,2026-06-22 23:38:37,Yeshwanthpur,Mobile
+SRCH000102,f66b00ef-663,gynecologist for pregnancy,3,False,False,2026-06-08 01:47:37,Koramangala,Desktop
+SRCH000103,b53d3bca-47e,best orthopedic surgeon Koramangala,1,True,False,2026-06-25 17:40:37,Yeshwanthpur,Desktop
+SRCH000104,1be98b03-955,diabetes specialist endocrinologist,15,False,False,2026-06-19 11:51:37,Whitefield,Desktop
+SRCH000105,27d23b71-643,physiotherapy session near Indiranagar,16,False,True,2026-06-23 00:39:37,Koramangala,Mobile
+SRCH000106,5d14a1f0-f82,mental health psychiatrist consultation,2,False,False,2026-06-20 08:52:37,Yeshwanthpur,Desktop
+SRCH000107,19d18f03-755,best orthopedic surgeon Koramangala,9,True,False,2026-06-26 05:55:37,Whitefield,Desktop
+SRCH000108,30bbf97e-da5,cancer treatment hospital Bengaluru,19,True,False,2026-06-24 03:07:37,Koramangala,Desktop
+SRCH000109,6db7bb68-beb,best orthopedic surgeon Koramangala,8,True,False,2026-06-19 21:24:37,Jayanagar,Mobile
+SRCH000110,6cd37cc8-960,physiotherapy session near Indiranagar,4,False,False,2026-06-09 00:38:37,Jayanagar,Desktop
+SRCH000111,7be3582a-e3b,cancer treatment hospital Bengaluru,19,True,True,2026-06-25 15:27:37,Whitefield,Desktop
+SRCH000112,7f562e71-d69,pediatrician appointment today,19,False,False,2026-06-18 10:30:37,Yeshwanthpur,Mobile
+SRCH000113,f991f5e4-934,neurology consultation Manipal,3,True,False,2026-06-20 07:06:37,Whitefield,Tablet
+SRCH000114,471a3ddd-0fd,diabetes specialist endocrinologist,4,False,False,2026-06-02 15:44:37,Yeshwanthpur,Mobile
+SRCH000115,548cfe83-3fb,cancer treatment hospital Bengaluru,15,True,False,2026-06-01 12:43:37,Indiranagar,Desktop
+SRCH000116,12f01793-84b,diabetes specialist endocrinologist,15,False,False,2026-06-05 07:27:37,Whitefield,Tablet
+SRCH000117,8f992c33-ace,blood test CBC cost,3,True,False,2026-06-12 14:20:37,Indiranagar,Desktop
+SRCH000118,239445de-0c3,MRI scan cost Bengaluru,4,True,False,2026-05-28 21:07:37,Whitefield,Desktop
+SRCH000119,998425bd-d14,skin specialist dermatologist,11,False,False,2026-06-01 15:08:37,Whitefield,Mobile
+SRCH000120,5c1c5bda-c35,pediatrician appointment today,7,False,False,2026-06-03 21:23:37,Jayanagar,Desktop
+SRCH000121,51b0fda1-992,dialysis center Hebbal,1,False,False,2026-06-05 22:41:37,Koramangala,Tablet
+SRCH000122,5d2a645f-f76,cardiologist near me Bengaluru,9,True,False,2026-06-25 17:55:37,Whitefield,Tablet
+SRCH000123,23c557fb-2b4,pediatrician appointment today,15,False,False,2026-06-04 23:33:37,Yeshwanthpur,Tablet
+SRCH000124,5b138cc1-0c5,physiotherapy session near Indiranagar,6,True,False,2026-06-23 12:46:37,Indiranagar,Tablet
+SRCH000125,19c2fb69-ed2,cardiologist near me Bengaluru,20,True,False,2026-06-25 13:16:37,Yeshwanthpur,Mobile
+SRCH000126,38d6a221-e46,neurology consultation Manipal,20,True,False,2026-06-16 07:03:37,Jayanagar,Desktop
+SRCH000127,d19e0816-18f,blood test CBC cost,3,False,False,2026-06-10 13:32:37,Indiranagar,Mobile
+SRCH000128,89e10630-87b,cardiologist near me Bengaluru,16,False,False,2026-05-28 02:31:37,Yeshwanthpur,Tablet
+SRCH000129,42fa33f7-9ce,skin specialist dermatologist,10,False,False,2026-06-17 11:06:37,Yeshwanthpur,Mobile
+SRCH000130,6b0ddb22-aab,best orthopedic surgeon Koramangala,19,False,False,2026-06-09 01:06:37,Indiranagar,Tablet
+SRCH000131,06716cc1-af4,best orthopedic surgeon Koramangala,4,False,False,2026-06-18 02:20:37,Indiranagar,Mobile
+SRCH000132,d1216942-27a,cancer treatment hospital Bengaluru,9,True,False,2026-06-14 21:23:37,Yeshwanthpur,Desktop
+SRCH000133,7602f961-d5d,dialysis center Hebbal,6,False,False,2026-06-07 23:09:37,Jayanagar,Desktop
+SRCH000134,22d9e56e-fdb,eye specialist ophthalmologist appointment,14,True,False,2026-06-18 21:32:37,Indiranagar,Desktop
+SRCH000135,94d86d92-d0c,cancer treatment hospital Bengaluru,13,False,False,2026-06-22 20:11:37,Jayanagar,Tablet
+SRCH000136,8e2368d3-b8a,dialysis center Hebbal,6,False,True,2026-06-02 11:18:37,Jayanagar,Tablet
+SRCH000137,4d9d8bac-e69,diabetes specialist endocrinologist,13,False,True,2026-05-30 13:29:37,Whitefield,Tablet
+SRCH000138,795429bf-0da,gynecologist for pregnancy,16,False,False,2026-06-26 04:16:37,Jayanagar,Tablet
+SRCH000139,df5f7f1f-7f7,best orthopedic surgeon Koramangala,10,False,False,2026-06-05 00:45:37,Koramangala,Tablet
+SRCH000140,d80fc78f-5c1,pediatrician appointment today,6,False,True,2026-06-11 17:05:37,Jayanagar,Tablet
+SRCH000141,7d31ec4b-894,gynecologist for pregnancy,8,False,True,2026-06-24 16:08:37,Koramangala,Mobile
+SRCH000142,3cd06422-5d7,physiotherapy session near Indiranagar,8,True,False,2026-06-25 19:27:37,Yeshwanthpur,Tablet
+SRCH000143,1c0ff003-686,cancer treatment hospital Bengaluru,18,True,False,2026-06-16 06:37:37,Koramangala,Mobile
+SRCH000144,2e6e80bd-82e,best orthopedic surgeon Koramangala,5,False,True,2026-05-28 02:54:37,Hebbal,Desktop
+SRCH000145,a7090034-3e7,blood test CBC cost,18,False,False,2026-06-01 19:27:37,Hebbal,Desktop
+SRCH000146,09bb2248-49b,neurology consultation Manipal,12,True,True,2026-06-04 22:13:37,Jayanagar,Desktop
+SRCH000147,c2bbd164-ac8,dialysis center Hebbal,3,False,False,2026-06-13 22:12:37,Koramangala,Tablet
+SRCH000148,ca92d278-4e9,dialysis center Hebbal,17,True,False,2026-05-31 16:06:37,Yeshwanthpur,Mobile
+SRCH000149,19bce681-afc,gynecologist for pregnancy,12,False,False,2026-06-20 17:07:37,Jayanagar,Desktop
+SRCH000150,f7c199d6-896,eye specialist ophthalmologist appointment,14,True,False,2026-06-02 00:19:37,Jayanagar,Mobile
+SRCH000151,9cce0747-096,eye specialist ophthalmologist appointment,11,True,False,2026-06-09 17:16:37,Yeshwanthpur,Mobile
+SRCH000152,f1f5e7d7-63c,blood test CBC cost,1,True,False,2026-06-03 23:46:37,Yeshwanthpur,Tablet
+SRCH000153,e8df30b8-ce0,neurology consultation Manipal,1,True,False,2026-06-25 19:07:37,Jayanagar,Tablet
+SRCH000154,65bec5f8-faf,best orthopedic surgeon Koramangala,18,True,False,2026-06-12 05:02:37,Indiranagar,Mobile
+SRCH000155,348c7a41-479,eye specialist ophthalmologist appointment,19,True,False,2026-06-07 11:39:37,Whitefield,Tablet
+SRCH000156,ae91fdcd-c9c,mental health psychiatrist consultation,6,False,False,2026-05-29 16:12:37,Whitefield,Mobile
+SRCH000157,3a6f100c-533,gynecologist for pregnancy,19,False,False,2026-06-08 21:25:37,Hebbal,Desktop
+SRCH000158,65ffc453-62a,cardiologist near me Bengaluru,10,False,True,2026-06-21 11:27:37,Jayanagar,Mobile
+SRCH000159,c114d209-529,best orthopedic surgeon Koramangala,20,True,True,2026-06-12 03:38:37,Indiranagar,Tablet
+SRCH000160,62b7049c-a7e,cardiologist near me Bengaluru,20,False,True,2026-06-13 06:56:37,Whitefield,Desktop
+SRCH000161,20200444-1aa,physiotherapy session near Indiranagar,10,True,True,2026-05-31 06:50:37,Indiranagar,Desktop
+SRCH000162,e2d8bbb2-ccc,blood test CBC cost,17,False,False,2026-05-29 15:35:37,Koramangala,Mobile
+SRCH000163,ae20eb40-52e,pediatrician appointment today,19,True,False,2026-05-30 08:24:37,Indiranagar,Tablet
+SRCH000164,96cb5b43-d22,blood test CBC cost,1,False,False,2026-06-15 10:37:37,Koramangala,Tablet
+SRCH000165,92ae4f91-074,24 hour emergency hospital Whitefield,5,False,True,2026-06-11 01:40:37,Koramangala,Mobile
+SRCH000166,e86a0560-45c,eye specialist ophthalmologist appointment,11,True,False,2026-06-10 19:28:37,Hebbal,Mobile
+SRCH000167,fa56d5df-f3e,eye specialist ophthalmologist appointment,5,False,False,2026-06-17 04:41:37,Indiranagar,Tablet
+SRCH000168,63fefba1-f08,dialysis center Hebbal,9,False,False,2026-06-18 16:36:37,Jayanagar,Tablet
+SRCH000169,08f64d96-85e,best orthopedic surgeon Koramangala,20,True,False,2026-06-13 03:10:37,Yeshwanthpur,Tablet
+SRCH000170,10413e18-d22,physiotherapy session near Indiranagar,3,False,False,2026-06-04 23:07:37,Yeshwanthpur,Tablet
+SRCH000171,37be6cec-b52,dialysis center Hebbal,12,False,False,2026-05-31 08:36:37,Koramangala,Mobile
+SRCH000172,b63e4738-1ca,diabetes specialist endocrinologist,6,False,False,2026-06-13 02:52:37,Whitefield,Tablet
+SRCH000173,227c9643-3ea,gynecologist for pregnancy,10,True,False,2026-06-20 06:47:37,Jayanagar,Mobile
+SRCH000174,28f1dc01-16c,physiotherapy session near Indiranagar,5,False,False,2026-06-11 16:55:37,Koramangala,Tablet
+SRCH000175,6c97d7d7-ee0,24 hour emergency hospital Whitefield,5,False,False,2026-05-30 10:55:37,Yeshwanthpur,Mobile
+SRCH000176,e5fe3312-898,blood test CBC cost,4,False,True,2026-06-20 04:38:37,Jayanagar,Tablet
+SRCH000177,57bfd55a-cf9,diabetes specialist endocrinologist,17,False,True,2026-05-28 17:03:37,Koramangala,Mobile
+SRCH000178,765179c9-d59,eye specialist ophthalmologist appointment,14,False,True,2026-06-07 21:13:37,Indiranagar,Tablet
+SRCH000179,042a4b6e-f99,pediatrician appointment today,16,True,False,2026-05-31 19:03:37,Indiranagar,Desktop
+SRCH000180,1929c3d5-817,blood test CBC cost,5,True,False,2026-06-08 05:56:37,Hebbal,Mobile
+SRCH000181,74524e36-315,eye specialist ophthalmologist appointment,6,True,False,2026-06-12 01:37:37,Jayanagar,Desktop
+SRCH000182,a22364b5-614,skin specialist dermatologist,1,False,False,2026-06-26 08:09:37,Indiranagar,Tablet
+SRCH000183,0cbb851e-dad,gynecologist for pregnancy,5,True,False,2026-05-31 01:05:37,Whitefield,Tablet
+SRCH000184,d08ac774-801,gynecologist for pregnancy,1,False,False,2026-06-22 23:04:37,Jayanagar,Tablet
+SRCH000185,8dd4b0a8-37a,mental health psychiatrist consultation,2,False,False,2026-06-04 14:07:37,Jayanagar,Desktop
+SRCH000186,fa9f4e92-34c,mental health psychiatrist consultation,15,True,False,2026-06-09 07:55:37,Yeshwanthpur,Tablet
+SRCH000187,deccf741-ded,24 hour emergency hospital Whitefield,1,True,False,2026-06-01 15:05:37,Hebbal,Mobile
+SRCH000188,d2e5249c-522,dialysis center Hebbal,12,False,False,2026-06-17 04:49:37,Whitefield,Desktop
+SRCH000189,77b4ad77-e04,pediatrician appointment today,11,False,False,2026-06-11 00:28:37,Indiranagar,Mobile
+SRCH000190,ed913470-fd2,gynecologist for pregnancy,1,False,True,2026-05-31 07:53:37,Indiranagar,Mobile
+SRCH000191,121728c8-17e,skin specialist dermatologist,11,False,False,2026-06-03 01:43:37,Yeshwanthpur,Desktop
+SRCH000192,898944e7-bf5,gynecologist for pregnancy,13,True,False,2026-06-05 22:32:37,Indiranagar,Mobile
+SRCH000193,e86cfbdb-c33,physiotherapy session near Indiranagar,15,False,False,2026-06-01 01:53:37,Hebbal,Desktop
+SRCH000194,7e3abd7e-8d8,blood test CBC cost,13,False,False,2026-06-04 12:17:37,Jayanagar,Mobile
+SRCH000195,a811d62d-223,cardiologist near me Bengaluru,1,True,True,2026-06-16 06:33:37,Whitefield,Desktop
+SRCH000196,e5e81806-548,gynecologist for pregnancy,1,True,False,2026-06-17 23:50:37,Whitefield,Tablet
+SRCH000197,ece35c0a-a72,best orthopedic surgeon Koramangala,16,False,True,2026-06-06 17:27:37,Hebbal,Mobile
+SRCH000198,1cb7d8ee-de7,skin specialist dermatologist,10,False,False,2026-05-30 01:42:37,Koramangala,Desktop
+SRCH000199,e753c72e-5bc,24 hour emergency hospital Whitefield,16,True,True,2026-06-12 21:57:37,Yeshwanthpur,Desktop
+SRCH000200,58f71932-ee0,MRI scan cost Bengaluru,2,True,False,2026-06-06 00:12:37,Koramangala,Tablet
+SRCH000201,09e566a1-072,cardiologist near me Bengaluru,4,True,False,2026-05-31 19:27:37,Koramangala,Mobile
+SRCH000202,1f0bbdc2-dc9,pediatrician appointment today,19,True,False,2026-06-14 16:13:37,Hebbal,Desktop
+SRCH000203,2f6d3c16-d5c,physiotherapy session near Indiranagar,16,False,True,2026-06-25 11:44:37,Yeshwanthpur,Mobile
+SRCH000204,d39ba5b7-21c,24 hour emergency hospital Whitefield,16,True,True,2026-05-28 09:20:37,Jayanagar,Tablet
+SRCH000205,9e701b45-3df,blood test CBC cost,2,True,False,2026-06-04 17:59:37,Indiranagar,Mobile
+SRCH000206,c5913030-f0d,pediatrician appointment today,5,False,False,2026-06-12 18:38:37,Koramangala,Tablet
+SRCH000207,688bf5e7-39b,skin specialist dermatologist,7,True,False,2026-06-23 12:01:37,Jayanagar,Desktop
+SRCH000208,5557dd2c-922,gynecologist for pregnancy,9,False,True,2026-06-06 16:11:37,Indiranagar,Tablet
+SRCH000209,2bcf5c9b-b5c,mental health psychiatrist consultation,13,False,False,2026-06-04 08:30:37,Jayanagar,Tablet
+SRCH000210,634f629e-fec,cardiologist near me Bengaluru,13,True,False,2026-05-28 20:47:37,Whitefield,Tablet
+SRCH000211,fa0e06ff-369,gynecologist for pregnancy,7,True,False,2026-06-02 14:32:37,Indiranagar,Tablet
+SRCH000212,01314f08-cd5,24 hour emergency hospital Whitefield,2,True,False,2026-06-11 03:40:37,Yeshwanthpur,Mobile
+SRCH000213,9cda2ff5-f2f,cardiologist near me Bengaluru,19,False,True,2026-06-07 01:42:37,Jayanagar,Tablet
+SRCH000214,58b63017-a06,eye specialist ophthalmologist appointment,3,True,True,2026-06-20 12:52:37,Indiranagar,Tablet
+SRCH000215,5f1eee56-261,blood test CBC cost,1,True,False,2026-06-23 21:18:37,Whitefield,Desktop
+SRCH000216,02798b2d-cb3,MRI scan cost Bengaluru,3,True,False,2026-06-03 09:44:37,Jayanagar,Mobile
+SRCH000217,b807017d-b22,neurology consultation Manipal,11,True,False,2026-05-28 04:38:37,Indiranagar,Tablet
+SRCH000218,daf58d91-2e4,neurology consultation Manipal,15,False,False,2026-05-29 20:20:37,Jayanagar,Tablet
+SRCH000219,8e6b6620-667,diabetes specialist endocrinologist,19,False,False,2026-06-18 04:44:37,Koramangala,Desktop
+SRCH000220,2ec42293-83d,dialysis center Hebbal,8,True,True,2026-06-12 18:36:37,Jayanagar,Mobile
+SRCH000221,543b7ef8-65d,skin specialist dermatologist,20,False,False,2026-06-04 15:49:37,Koramangala,Desktop
+SRCH000222,f67ae38b-0f9,eye specialist ophthalmologist appointment,4,False,False,2026-06-21 03:48:37,Koramangala,Tablet
+SRCH000223,d8cdc897-b40,diabetes specialist endocrinologist,5,False,False,2026-05-29 11:54:37,Hebbal,Desktop
+SRCH000224,327176ca-3e8,24 hour emergency hospital Whitefield,17,False,False,2026-05-30 21:37:37,Jayanagar,Mobile
+SRCH000225,7fb88235-b36,physiotherapy session near Indiranagar,13,True,False,2026-06-11 00:42:37,Jayanagar,Mobile
+SRCH000226,2d6e79ae-984,cancer treatment hospital Bengaluru,13,True,False,2026-06-06 13:11:37,Yeshwanthpur,Desktop
+SRCH000227,a2e3b4c6-d1e,cardiologist near me Bengaluru,14,True,True,2026-06-24 13:33:37,Koramangala,Desktop
+SRCH000228,d1019188-7b0,skin specialist dermatologist,6,True,True,2026-06-08 03:50:37,Indiranagar,Desktop
+SRCH000229,6431e412-db2,diabetes specialist endocrinologist,3,False,False,2026-06-15 10:14:37,Whitefield,Mobile
+SRCH000230,75bf3799-909,diabetes specialist endocrinologist,18,True,False,2026-05-29 14:00:37,Hebbal,Desktop
+SRCH000231,40fd6039-859,best orthopedic surgeon Koramangala,20,False,False,2026-06-09 02:37:37,Jayanagar,Mobile
+SRCH000232,fb43d12d-186,dialysis center Hebbal,7,True,False,2026-05-30 11:18:37,Koramangala,Mobile
+SRCH000233,eea1ae2d-12c,MRI scan cost Bengaluru,4,False,False,2026-06-21 20:26:37,Yeshwanthpur,Tablet
+SRCH000234,be38159c-d5f,MRI scan cost Bengaluru,16,False,False,2026-06-22 16:17:37,Indiranagar,Tablet
+SRCH000235,8fe7eb09-691,diabetes specialist endocrinologist,15,True,False,2026-06-13 05:04:37,Koramangala,Desktop
+SRCH000236,285ff9ea-26c,24 hour emergency hospital Whitefield,2,False,False,2026-06-20 22:27:37,Indiranagar,Desktop
+SRCH000237,7184bb3b-d52,mental health psychiatrist consultation,13,False,False,2026-06-19 12:31:37,Indiranagar,Tablet
+SRCH000238,27d3cdee-586,skin specialist dermatologist,2,True,False,2026-06-01 15:14:37,Hebbal,Mobile
+SRCH000239,b7963c12-6fd,24 hour emergency hospital Whitefield,8,False,False,2026-05-28 08:14:37,Yeshwanthpur,Mobile
+SRCH000240,b155399b-c8e,best orthopedic surgeon Koramangala,2,False,False,2026-06-07 04:54:37,Hebbal,Tablet
+SRCH000241,7c5f780d-27e,diabetes specialist endocrinologist,10,True,False,2026-06-09 09:53:37,Yeshwanthpur,Mobile
+SRCH000242,f6fa5cf6-46f,best orthopedic surgeon Koramangala,6,False,True,2026-05-31 04:12:37,Indiranagar,Mobile
+SRCH000243,126f21f9-f6e,pediatrician appointment today,12,False,False,2026-06-12 15:29:37,Jayanagar,Tablet
+SRCH000244,eb027a30-4da,eye specialist ophthalmologist appointment,8,False,False,2026-05-28 20:23:37,Koramangala,Tablet
+SRCH000245,b46ce855-86b,gynecologist for pregnancy,19,True,True,2026-06-11 12:10:37,Yeshwanthpur,Desktop
+SRCH000246,eec565c4-2ae,cardiologist near me Bengaluru,2,True,False,2026-06-02 21:48:37,Koramangala,Desktop
+SRCH000247,63a73adb-9cb,neurology consultation Manipal,19,False,True,2026-06-25 21:27:37,Indiranagar,Desktop
+SRCH000248,151a7d00-e75,24 hour emergency hospital Whitefield,7,False,False,2026-06-19 01:41:37,Indiranagar,Desktop
+SRCH000249,e25b5412-40e,dialysis center Hebbal,20,True,False,2026-06-08 06:01:37,Indiranagar,Desktop
+SRCH000250,7e4a7c0e-11a,pediatrician appointment today,14,True,True,2026-06-24 03:31:37,Koramangala,Desktop
+SRCH000251,e7fe6f7a-fbe,mental health psychiatrist consultation,19,True,False,2026-06-08 00:19:37,Jayanagar,Mobile
+SRCH000252,174ecedb-8d7,cardiologist near me Bengaluru,4,False,True,2026-06-15 13:12:37,Whitefield,Desktop
+SRCH000253,a70d42e7-9dc,eye specialist ophthalmologist appointment,19,True,False,2026-06-18 23:55:37,Jayanagar,Tablet
+SRCH000254,9ad81493-054,gynecologist for pregnancy,19,False,False,2026-06-09 14:08:37,Jayanagar,Desktop
+SRCH000255,329ca3f6-b61,mental health psychiatrist consultation,18,False,True,2026-06-21 21:06:37,Whitefield,Desktop
+SRCH000256,9433427e-a41,gynecologist for pregnancy,10,False,False,2026-06-12 16:21:37,Indiranagar,Desktop
+SRCH000257,7f749821-89d,cancer treatment hospital Bengaluru,4,True,False,2026-05-28 01:25:37,Indiranagar,Mobile
+SRCH000258,452d94ba-7c0,skin specialist dermatologist,10,True,False,2026-06-26 20:27:37,Indiranagar,Tablet
+SRCH000259,040a32da-fac,gynecologist for pregnancy,17,True,False,2026-06-14 01:13:37,Yeshwanthpur,Desktop
+SRCH000260,35599e7d-db3,cardiologist near me Bengaluru,19,True,False,2026-06-12 10:10:37,Koramangala,Mobile
+SRCH000261,b0acf5dd-6cd,best orthopedic surgeon Koramangala,8,True,True,2026-06-01 02:56:37,Jayanagar,Tablet
+SRCH000262,ce0613f3-830,blood test CBC cost,12,True,True,2026-06-01 00:16:37,Yeshwanthpur,Desktop
+SRCH000263,b9f1ade1-248,best orthopedic surgeon Koramangala,6,False,False,2026-06-15 15:27:37,Hebbal,Desktop
+SRCH000264,70443a2f-17e,diabetes specialist endocrinologist,20,True,False,2026-06-10 23:08:37,Hebbal,Mobile
+SRCH000265,97ccf74e-1ac,MRI scan cost Bengaluru,14,True,True,2026-06-11 19:35:37,Whitefield,Desktop
+SRCH000266,d3a92516-b1c,cancer treatment hospital Bengaluru,14,True,False,2026-06-10 02:44:37,Yeshwanthpur,Desktop
+SRCH000267,a94d91b9-436,pediatrician appointment today,4,True,False,2026-05-31 12:02:37,Whitefield,Mobile
+SRCH000268,00a472b0-45b,cardiologist near me Bengaluru,6,False,False,2026-06-25 11:14:37,Whitefield,Tablet
+SRCH000269,47cea743-0eb,mental health psychiatrist consultation,9,False,False,2026-05-28 17:18:37,Jayanagar,Desktop
+SRCH000270,cf3354f9-3bd,diabetes specialist endocrinologist,4,True,False,2026-06-24 11:19:37,Whitefield,Mobile
+SRCH000271,56f2d52f-6e1,cardiologist near me Bengaluru,14,True,True,2026-05-29 12:48:37,Koramangala,Desktop
+SRCH000272,93a74cd7-3f2,gynecologist for pregnancy,18,False,False,2026-06-08 09:46:37,Hebbal,Mobile
+SRCH000273,6d485af6-04c,physiotherapy session near Indiranagar,19,True,True,2026-06-26 12:13:37,Yeshwanthpur,Mobile
+SRCH000274,5c296781-ba7,eye specialist ophthalmologist appointment,7,True,True,2026-06-21 22:13:37,Hebbal,Mobile
+SRCH000275,9318688e-962,diabetes specialist endocrinologist,16,True,True,2026-06-19 14:05:37,Hebbal,Tablet
+SRCH000276,24d89a7d-f3f,pediatrician appointment today,7,False,False,2026-06-08 12:32:37,Hebbal,Mobile
+SRCH000277,f11f07bf-92f,24 hour emergency hospital Whitefield,14,True,False,2026-06-16 11:50:37,Whitefield,Desktop
+SRCH000278,7ccfbcbe-857,dialysis center Hebbal,17,True,False,2026-06-07 07:00:37,Yeshwanthpur,Mobile
+SRCH000279,6e40da1b-8d9,mental health psychiatrist consultation,20,False,False,2026-06-10 07:14:37,Yeshwanthpur,Desktop
+SRCH000280,706c4dc5-446,eye specialist ophthalmologist appointment,16,False,False,2026-05-31 12:12:37,Hebbal,Tablet
+SRCH000281,b943029d-4c1,cardiologist near me Bengaluru,20,False,False,2026-05-29 13:46:37,Whitefield,Tablet
+SRCH000282,7549381b-dbe,blood test CBC cost,3,False,False,2026-06-26 02:42:37,Koramangala,Mobile
+SRCH000283,8a1847e3-37c,skin specialist dermatologist,10,True,False,2026-06-02 21:49:37,Yeshwanthpur,Tablet
+SRCH000284,96ac6a7d-865,neurology consultation Manipal,10,True,False,2026-06-20 04:18:37,Koramangala,Mobile
+SRCH000285,8763eceb-aa3,gynecologist for pregnancy,15,False,False,2026-06-13 22:46:37,Hebbal,Desktop
+SRCH000286,cff22301-aef,diabetes specialist endocrinologist,12,True,False,2026-06-20 17:22:37,Hebbal,Tablet
+SRCH000287,b6d961a7-5d2,mental health psychiatrist consultation,20,True,False,2026-06-02 19:33:37,Whitefield,Desktop
+SRCH000288,eb42dcad-704,gynecologist for pregnancy,18,False,True,2026-06-15 00:15:37,Hebbal,Mobile
+SRCH000289,95b68289-2e7,pediatrician appointment today,6,False,False,2026-05-29 07:06:37,Yeshwanthpur,Desktop
+SRCH000290,afca0a3e-b1d,best orthopedic surgeon Koramangala,20,True,False,2026-05-31 08:48:37,Indiranagar,Desktop
+SRCH000291,161b372b-773,cardiologist near me Bengaluru,14,True,True,2026-06-05 10:22:37,Whitefield,Mobile
+SRCH000292,18531807-2f8,gynecologist for pregnancy,5,False,False,2026-06-01 07:30:37,Koramangala,Mobile
+SRCH000293,083f60cc-dd7,best orthopedic surgeon Koramangala,5,True,False,2026-06-15 13:00:37,Koramangala,Desktop
+SRCH000294,54efd7d5-e23,cancer treatment hospital Bengaluru,14,False,False,2026-06-05 11:56:37,Hebbal,Desktop
+SRCH000295,2410ce8e-572,eye specialist ophthalmologist appointment,8,False,True,2026-05-30 05:31:37,Indiranagar,Tablet
+SRCH000296,8e3cbef1-942,dialysis center Hebbal,9,True,False,2026-06-02 10:46:37,Hebbal,Tablet
+SRCH000297,1133afda-f7a,cardiologist near me Bengaluru,20,False,False,2026-06-22 07:47:37,Indiranagar,Desktop
+SRCH000298,d969aea3-4a9,cardiologist near me Bengaluru,2,True,True,2026-06-13 13:20:37,Yeshwanthpur,Mobile
+SRCH000299,6968b732-7ee,gynecologist for pregnancy,18,True,True,2026-06-06 04:30:37,Indiranagar,Desktop
+SRCH000300,8e674aa5-fe4,mental health psychiatrist consultation,20,True,False,2026-05-29 19:24:37,Koramangala,Mobile

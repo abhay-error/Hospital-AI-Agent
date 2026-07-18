@@ -1,0 +1,201 @@
+lead_id,doctor_id,hospital_id,patient_name,phone,email,intent,channel,lead_score,priority,status,created_at,last_interaction
+LEAD000001,DOC00049,HOSP002,Priya Sharma,+91-9737492758,patient1@email.com,Insurance Query,Phone,51,Medium,Contacted,2026-05-25 21:06:37,2026-06-26 21:06:37
+LEAD000002,DOC00490,HOSP012,Rahul Kumar,+91-9418836773,patient2@email.com,Follow-up,Phone,50,Medium,Appointment Booked,2026-06-17 21:06:37,2026-06-26 21:06:37
+LEAD000003,DOC00514,HOSP012,Arun Reddy,+91-9780851924,patient3@email.com,Book Appointment,Web Chat,85,High,Appointment Booked,2026-05-05 21:06:37,2026-06-26 21:06:37
+LEAD000004,DOC00271,HOSP006,Vikram Kumar,+91-9605226609,patient4@email.com,Get Information,Walk-in,33,Low,Converted,2026-04-22 21:06:37,2026-06-26 21:06:37
+LEAD000005,DOC00506,HOSP012,Sneha Kumar,+91-9307112283,patient5@email.com,Emergency,App,53,Medium,Lost,2026-05-08 21:06:37,2026-06-26 21:06:37
+LEAD000006,DOC00170,HOSP004,Sneha Sharma,+91-9194725701,patient6@email.com,Follow-up,App,69,Medium,Converted,2026-04-24 21:06:37,2026-06-26 21:06:37
+LEAD000007,DOC00606,HOSP013,Vikram Nair,+91-9160895170,patient7@email.com,Get Information,App,96,High,Contacted,2026-04-19 21:06:37,2026-06-26 21:06:37
+LEAD000008,DOC00598,HOSP013,Arun Nair,+91-9911453208,patient8@email.com,Emergency,App,40,Low,Contacted,2026-05-07 21:06:37,2026-06-26 21:06:37
+LEAD000009,DOC00281,HOSP006,Ananya Sharma,+91-9683914372,patient9@email.com,Emergency,Web Chat,36,Low,Appointment Booked,2026-06-18 21:06:37,2026-06-26 21:06:37
+LEAD000010,DOC00438,HOSP011,Vikram Sharma,+91-9312073238,patient10@email.com,Follow-up,App,63,Medium,New,2026-05-09 21:06:37,2026-06-26 21:06:37
+LEAD000011,DOC00408,HOSP010,Sneha Reddy,+91-9546973086,patient11@email.com,Emergency,Web Chat,77,High,Appointment Booked,2026-05-24 21:06:37,2026-06-26 21:06:37
+LEAD000012,DOC00668,HOSP015,Sneha Sharma,+91-9223712272,patient12@email.com,Insurance Query,Walk-in,31,Low,Contacted,2026-06-19 21:06:37,2026-06-26 21:06:37
+LEAD000013,DOC00023,HOSP001,Sneha Reddy,+91-9517822544,patient13@email.com,Book Appointment,App,28,Low,Converted,2026-06-20 21:06:37,2026-06-26 21:06:37
+LEAD000014,DOC00690,HOSP015,Ananya Kumar,+91-9626007869,patient14@email.com,Emergency,Web Chat,26,Low,Lost,2026-04-07 21:06:37,2026-06-26 21:06:37
+LEAD000015,DOC00361,HOSP009,Rahul Sharma,+91-9886053664,patient15@email.com,Book Appointment,WhatsApp,70,Medium,Contacted,2026-05-06 21:06:37,2026-06-26 21:06:37
+LEAD000016,DOC00370,HOSP009,Rahul Nair,+91-9911733783,patient16@email.com,Emergency,WhatsApp,24,Low,Appointment Booked,2026-05-17 21:06:37,2026-06-26 21:06:37
+LEAD000017,DOC00121,HOSP004,Ananya Reddy,+91-9931715887,patient17@email.com,Follow-up,App,35,Low,Appointment Booked,2026-05-11 21:06:37,2026-06-26 21:06:37
+LEAD000018,DOC00289,HOSP006,Ananya Reddy,+91-9477315176,patient18@email.com,Get Information,WhatsApp,50,Medium,Converted,2026-06-09 21:06:37,2026-06-26 21:06:37
+LEAD000019,DOC00309,HOSP007,Vikram Nair,+91-9108995308,patient19@email.com,Emergency,Walk-in,96,High,Converted,2026-06-15 21:06:37,2026-06-26 21:06:37
+LEAD000020,DOC00652,HOSP015,Sneha Sharma,+91-9486687996,patient20@email.com,Get Information,Walk-in,71,Medium,Converted,2026-04-01 21:06:37,2026-06-26 21:06:37
+LEAD000021,DOC00285,HOSP006,Priya Kumar,+91-9398960797,patient21@email.com,Follow-up,Web Chat,68,Medium,Appointment Booked,2026-05-11 21:06:37,2026-06-26 21:06:37
+LEAD000022,DOC00165,HOSP004,Priya Sharma,+91-9468556837,patient22@email.com,Book Appointment,App,56,Medium,Appointment Booked,2026-04-12 21:06:37,2026-06-26 21:06:37
+LEAD000023,DOC00212,HOSP005,Sneha Nair,+91-9703346418,patient23@email.com,Book Appointment,Phone,80,High,New,2026-05-22 21:06:37,2026-06-26 21:06:37
+LEAD000024,DOC00404,HOSP010,Sneha Sharma,+91-9545890591,patient24@email.com,Book Appointment,App,79,High,New,2026-05-24 21:06:37,2026-06-26 21:06:37
+LEAD000025,DOC00518,HOSP012,Vikram Kumar,+91-9537496208,patient25@email.com,Follow-up,Walk-in,92,High,New,2026-05-21 21:06:37,2026-06-26 21:06:37
+LEAD000026,DOC00500,HOSP012,Sneha Reddy,+91-9721532724,patient26@email.com,Insurance Query,Web Chat,53,Medium,Lost,2026-06-18 21:06:37,2026-06-26 21:06:37
+LEAD000027,DOC00411,HOSP010,Arun Kumar,+91-9975823917,patient27@email.com,Follow-up,App,76,High,New,2026-04-16 21:06:37,2026-06-26 21:06:37
+LEAD000028,DOC00190,HOSP005,Rahul Reddy,+91-9585930393,patient28@email.com,Follow-up,Walk-in,69,Medium,New,2026-04-23 21:06:37,2026-06-26 21:06:37
+LEAD000029,DOC00679,HOSP015,Sneha Sharma,+91-9503037056,patient29@email.com,Insurance Query,Walk-in,85,High,New,2026-05-26 21:06:37,2026-06-26 21:06:37
+LEAD000030,DOC00020,HOSP001,Sneha Sharma,+91-9600847546,patient30@email.com,Insurance Query,Web Chat,25,Low,Converted,2026-04-18 21:06:37,2026-06-26 21:06:37
+LEAD000031,DOC00427,HOSP011,Vikram Nair,+91-9212048277,patient31@email.com,Insurance Query,App,68,Medium,Contacted,2026-05-17 21:06:37,2026-06-26 21:06:37
+LEAD000032,DOC00439,HOSP011,Vikram Sharma,+91-9177324854,patient32@email.com,Follow-up,App,24,Low,Contacted,2026-04-08 21:06:37,2026-06-26 21:06:37
+LEAD000033,DOC00189,HOSP005,Ananya Reddy,+91-9296899648,patient33@email.com,Emergency,App,74,Medium,Contacted,2026-05-20 21:06:37,2026-06-26 21:06:37
+LEAD000034,DOC00600,HOSP013,Rahul Reddy,+91-9160156995,patient34@email.com,Insurance Query,Phone,70,Medium,Converted,2026-04-02 21:06:37,2026-06-26 21:06:37
+LEAD000035,DOC00119,HOSP003,Sneha Nair,+91-9102479434,patient35@email.com,Emergency,WhatsApp,57,Medium,Appointment Booked,2026-04-19 21:06:37,2026-06-26 21:06:37
+LEAD000036,DOC00496,HOSP012,Sneha Kumar,+91-9157962820,patient36@email.com,Follow-up,Walk-in,57,Medium,Appointment Booked,2026-05-02 21:06:37,2026-06-26 21:06:37
+LEAD000037,DOC00591,HOSP013,Rahul Nair,+91-9499463092,patient37@email.com,Follow-up,Phone,92,High,Contacted,2026-06-25 21:06:37,2026-06-26 21:06:37
+LEAD000038,DOC00533,HOSP012,Vikram Sharma,+91-9550939420,patient38@email.com,Book Appointment,Walk-in,63,Medium,Converted,2026-04-21 21:06:37,2026-06-26 21:06:37
+LEAD000039,DOC00266,HOSP006,Rahul Reddy,+91-9661654802,patient39@email.com,Emergency,Web Chat,81,High,Appointment Booked,2026-04-09 21:06:37,2026-06-26 21:06:37
+LEAD000040,DOC00252,HOSP006,Vikram Reddy,+91-9417984217,patient40@email.com,Get Information,Phone,86,High,Contacted,2026-04-21 21:06:37,2026-06-26 21:06:37
+LEAD000041,DOC00645,HOSP015,Sneha Sharma,+91-9517756417,patient41@email.com,Book Appointment,Walk-in,56,Medium,Converted,2026-05-08 21:06:37,2026-06-26 21:06:37
+LEAD000042,DOC00630,HOSP014,Sneha Kumar,+91-9573560117,patient42@email.com,Insurance Query,Walk-in,24,Low,Contacted,2026-05-28 21:06:37,2026-06-26 21:06:37
+LEAD000043,DOC00130,HOSP004,Arun Sharma,+91-9802496965,patient43@email.com,Follow-up,Phone,28,Low,New,2026-05-03 21:06:37,2026-06-26 21:06:37
+LEAD000044,DOC00104,HOSP003,Vikram Reddy,+91-9981968490,patient44@email.com,Book Appointment,App,46,Low,Contacted,2026-04-26 21:06:37,2026-06-26 21:06:37
+LEAD000045,DOC00399,HOSP010,Ananya Sharma,+91-9659872279,patient45@email.com,Emergency,App,49,Low,Lost,2026-06-16 21:06:37,2026-06-26 21:06:37
+LEAD000046,DOC00201,HOSP005,Sneha Sharma,+91-9465894441,patient46@email.com,Emergency,Walk-in,33,Low,Contacted,2026-04-01 21:06:37,2026-06-26 21:06:37
+LEAD000047,DOC00583,HOSP013,Vikram Nair,+91-9994700265,patient47@email.com,Get Information,WhatsApp,83,High,Contacted,2026-05-05 21:06:37,2026-06-26 21:06:37
+LEAD000048,DOC00182,HOSP005,Rahul Nair,+91-9358543836,patient48@email.com,Follow-up,Walk-in,76,High,Appointment Booked,2026-04-18 21:06:37,2026-06-26 21:06:37
+LEAD000049,DOC00206,HOSP005,Rahul Reddy,+91-9798556246,patient49@email.com,Book Appointment,Phone,97,High,Appointment Booked,2026-04-16 21:06:37,2026-06-26 21:06:37
+LEAD000050,DOC00478,HOSP012,Rahul Kumar,+91-9944780508,patient50@email.com,Follow-up,Web Chat,47,Low,Appointment Booked,2026-06-20 21:06:37,2026-06-26 21:06:37
+LEAD000051,DOC00532,HOSP012,Sneha Kumar,+91-9424789902,patient51@email.com,Emergency,Web Chat,31,Low,Contacted,2026-05-04 21:06:37,2026-06-26 21:06:37
+LEAD000052,DOC00557,HOSP013,Rahul Sharma,+91-9902483696,patient52@email.com,Get Information,Walk-in,84,High,Appointment Booked,2026-05-29 21:06:37,2026-06-26 21:06:37
+LEAD000053,DOC00494,HOSP012,Sneha Sharma,+91-9262787454,patient53@email.com,Get Information,Web Chat,68,Medium,Appointment Booked,2026-04-29 21:06:37,2026-06-26 21:06:37
+LEAD000054,DOC00637,HOSP014,Rahul Reddy,+91-9202941572,patient54@email.com,Get Information,App,78,High,Lost,2026-05-26 21:06:37,2026-06-26 21:06:37
+LEAD000055,DOC00385,HOSP009,Arun Reddy,+91-9103886468,patient55@email.com,Emergency,WhatsApp,60,Medium,Contacted,2026-03-28 21:06:37,2026-06-26 21:06:37
+LEAD000056,DOC00712,HOSP015,Rahul Sharma,+91-9148575311,patient56@email.com,Follow-up,App,100,High,Contacted,2026-06-16 21:06:37,2026-06-26 21:06:37
+LEAD000057,DOC00450,HOSP011,Vikram Reddy,+91-9249728743,patient57@email.com,Book Appointment,Phone,20,Low,Converted,2026-04-25 21:06:37,2026-06-26 21:06:37
+LEAD000058,DOC00472,HOSP011,Rahul Sharma,+91-9815570112,patient58@email.com,Follow-up,Phone,78,High,Contacted,2026-06-17 21:06:37,2026-06-26 21:06:37
+LEAD000059,DOC00180,HOSP005,Vikram Sharma,+91-9534835887,patient59@email.com,Emergency,WhatsApp,20,Low,Lost,2026-04-25 21:06:37,2026-06-26 21:06:37
+LEAD000060,DOC00221,HOSP005,Rahul Sharma,+91-9815923210,patient60@email.com,Insurance Query,Web Chat,55,Medium,Lost,2026-04-19 21:06:37,2026-06-26 21:06:37
+LEAD000061,DOC00588,HOSP013,Arun Kumar,+91-9331341481,patient61@email.com,Follow-up,Walk-in,50,Medium,Lost,2026-03-30 21:06:37,2026-06-26 21:06:37
+LEAD000062,DOC00168,HOSP004,Vikram Nair,+91-9769016189,patient62@email.com,Get Information,Walk-in,47,Low,New,2026-04-24 21:06:37,2026-06-26 21:06:37
+LEAD000063,DOC00043,HOSP002,Ananya Kumar,+91-9770594070,patient63@email.com,Get Information,Phone,45,Low,Appointment Booked,2026-05-06 21:06:37,2026-06-26 21:06:37
+LEAD000064,DOC00534,HOSP012,Ananya Kumar,+91-9922803083,patient64@email.com,Get Information,Web Chat,63,Medium,Appointment Booked,2026-05-08 21:06:37,2026-06-26 21:06:37
+LEAD000065,DOC00700,HOSP015,Vikram Kumar,+91-9885508255,patient65@email.com,Insurance Query,App,20,Low,Contacted,2026-06-20 21:06:37,2026-06-26 21:06:37
+LEAD000066,DOC00623,HOSP014,Vikram Kumar,+91-9224321837,patient66@email.com,Book Appointment,App,99,High,Lost,2026-06-09 21:06:37,2026-06-26 21:06:37
+LEAD000067,DOC00501,HOSP012,Ananya Sharma,+91-9730612058,patient67@email.com,Insurance Query,Web Chat,20,Low,Contacted,2026-04-26 21:06:37,2026-06-26 21:06:37
+LEAD000068,DOC00340,HOSP008,Sneha Nair,+91-9541396560,patient68@email.com,Emergency,Web Chat,57,Medium,New,2026-04-10 21:06:37,2026-06-26 21:06:37
+LEAD000069,DOC00578,HOSP013,Ananya Kumar,+91-9126156294,patient69@email.com,Book Appointment,Phone,29,Low,Contacted,2026-04-09 21:06:37,2026-06-26 21:06:37
+LEAD000070,DOC00646,HOSP015,Vikram Kumar,+91-9854785844,patient70@email.com,Insurance Query,Phone,94,High,Converted,2026-05-05 21:06:37,2026-06-26 21:06:37
+LEAD000071,DOC00198,HOSP005,Sneha Kumar,+91-9335943123,patient71@email.com,Emergency,App,54,Medium,New,2026-05-10 21:06:37,2026-06-26 21:06:37
+LEAD000072,DOC00324,HOSP008,Arun Reddy,+91-9518676308,patient72@email.com,Emergency,App,37,Low,Lost,2026-04-23 21:06:37,2026-06-26 21:06:37
+LEAD000073,DOC00701,HOSP015,Sneha Nair,+91-9683552268,patient73@email.com,Book Appointment,Phone,88,High,New,2026-04-18 21:06:37,2026-06-26 21:06:37
+LEAD000074,DOC00602,HOSP013,Vikram Reddy,+91-9535700124,patient74@email.com,Follow-up,Web Chat,81,High,Lost,2026-04-24 21:06:37,2026-06-26 21:06:37
+LEAD000075,DOC00650,HOSP015,Vikram Kumar,+91-9461533658,patient75@email.com,Get Information,WhatsApp,90,High,Appointment Booked,2026-05-15 21:06:37,2026-06-26 21:06:37
+LEAD000076,DOC00269,HOSP006,Ananya Nair,+91-9129518642,patient76@email.com,Insurance Query,Web Chat,42,Low,New,2026-04-05 21:06:37,2026-06-26 21:06:37
+LEAD000077,DOC00099,HOSP003,Priya Reddy,+91-9869529057,patient77@email.com,Emergency,WhatsApp,80,High,Appointment Booked,2026-06-10 21:06:37,2026-06-26 21:06:37
+LEAD000078,DOC00294,HOSP007,Ananya Nair,+91-9230109177,patient78@email.com,Follow-up,WhatsApp,52,Medium,Appointment Booked,2026-06-17 21:06:37,2026-06-26 21:06:37
+LEAD000079,DOC00226,HOSP005,Ananya Nair,+91-9624255676,patient79@email.com,Insurance Query,Phone,57,Medium,Converted,2026-03-29 21:06:37,2026-06-26 21:06:37
+LEAD000080,DOC00242,HOSP006,Rahul Reddy,+91-9820180113,patient80@email.com,Get Information,Web Chat,95,High,Appointment Booked,2026-04-21 21:06:37,2026-06-26 21:06:37
+LEAD000081,DOC00663,HOSP015,Vikram Kumar,+91-9283871892,patient81@email.com,Emergency,Web Chat,93,High,Contacted,2026-06-21 21:06:37,2026-06-26 21:06:37
+LEAD000082,DOC00094,HOSP003,Vikram Kumar,+91-9393627857,patient82@email.com,Book Appointment,Phone,58,Medium,Converted,2026-04-15 21:06:37,2026-06-26 21:06:37
+LEAD000083,DOC00475,HOSP011,Ananya Sharma,+91-9627671728,patient83@email.com,Follow-up,WhatsApp,80,High,Lost,2026-04-28 21:06:37,2026-06-26 21:06:37
+LEAD000084,DOC00327,HOSP008,Arun Sharma,+91-9773897071,patient84@email.com,Emergency,Walk-in,67,Medium,Contacted,2026-06-18 21:06:37,2026-06-26 21:06:37
+LEAD000085,DOC00365,HOSP009,Priya Kumar,+91-9909450955,patient85@email.com,Insurance Query,Phone,59,Medium,Lost,2026-05-12 21:06:37,2026-06-26 21:06:37
+LEAD000086,DOC00014,HOSP001,Priya Reddy,+91-9864521994,patient86@email.com,Get Information,Web Chat,78,High,New,2026-04-26 21:06:37,2026-06-26 21:06:37
+LEAD000087,DOC00707,HOSP015,Ananya Reddy,+91-9575401463,patient87@email.com,Get Information,Phone,100,High,Contacted,2026-04-18 21:06:37,2026-06-26 21:06:37
+LEAD000088,DOC00134,HOSP004,Ananya Reddy,+91-9564967198,patient88@email.com,Insurance Query,Web Chat,65,Medium,Contacted,2026-06-20 21:06:37,2026-06-26 21:06:37
+LEAD000089,DOC00017,HOSP001,Sneha Reddy,+91-9189776501,patient89@email.com,Emergency,Walk-in,77,High,Appointment Booked,2026-06-16 21:06:37,2026-06-26 21:06:37
+LEAD000090,DOC00061,HOSP002,Sneha Sharma,+91-9162438937,patient90@email.com,Get Information,Phone,65,Medium,Lost,2026-05-08 21:06:37,2026-06-26 21:06:37
+LEAD000091,DOC00350,HOSP008,Sneha Nair,+91-9895671125,patient91@email.com,Get Information,Web Chat,20,Low,Appointment Booked,2026-04-25 21:06:37,2026-06-26 21:06:37
+LEAD000092,DOC00367,HOSP009,Priya Sharma,+91-9678966840,patient92@email.com,Insurance Query,Phone,52,Medium,Lost,2026-05-24 21:06:37,2026-06-26 21:06:37
+LEAD000093,DOC00671,HOSP015,Arun Kumar,+91-9672999089,patient93@email.com,Follow-up,Phone,51,Medium,Lost,2026-06-16 21:06:37,2026-06-26 21:06:37
+LEAD000094,DOC00045,HOSP002,Vikram Nair,+91-9833074168,patient94@email.com,Emergency,Web Chat,42,Low,Contacted,2026-04-21 21:06:37,2026-06-26 21:06:37
+LEAD000095,DOC00392,HOSP010,Ananya Reddy,+91-9102258642,patient95@email.com,Follow-up,Phone,96,High,Converted,2026-04-21 21:06:37,2026-06-26 21:06:37
+LEAD000096,DOC00131,HOSP004,Rahul Sharma,+91-9761669320,patient96@email.com,Insurance Query,WhatsApp,81,High,Contacted,2026-05-03 21:06:37,2026-06-26 21:06:37
+LEAD000097,DOC00713,HOSP015,Ananya Kumar,+91-9634526579,patient97@email.com,Book Appointment,App,24,Low,New,2026-05-10 21:06:37,2026-06-26 21:06:37
+LEAD000098,DOC00421,HOSP011,Priya Sharma,+91-9631344329,patient98@email.com,Get Information,Walk-in,38,Low,Contacted,2026-06-24 21:06:37,2026-06-26 21:06:37
+LEAD000099,DOC00056,HOSP002,Sneha Nair,+91-9433489549,patient99@email.com,Follow-up,Phone,66,Medium,Appointment Booked,2026-04-08 21:06:37,2026-06-26 21:06:37
+LEAD000100,DOC00255,HOSP006,Arun Sharma,+91-9221376244,patient100@email.com,Get Information,Web Chat,22,Low,Appointment Booked,2026-04-22 21:06:37,2026-06-26 21:06:37
+LEAD000101,DOC00538,HOSP012,Arun Nair,+91-9793303003,patient101@email.com,Book Appointment,App,65,Medium,Contacted,2026-04-29 21:06:37,2026-06-26 21:06:37
+LEAD000102,DOC00122,HOSP004,Arun Reddy,+91-9999492550,patient102@email.com,Get Information,App,95,High,Appointment Booked,2026-06-11 21:06:37,2026-06-26 21:06:37
+LEAD000103,DOC00058,HOSP002,Ananya Nair,+91-9649488692,patient103@email.com,Get Information,Web Chat,26,Low,Lost,2026-04-09 21:06:37,2026-06-26 21:06:37
+LEAD000104,DOC00322,HOSP008,Sneha Reddy,+91-9676939081,patient104@email.com,Get Information,App,33,Low,Contacted,2026-04-08 21:06:37,2026-06-26 21:06:37
+LEAD000105,DOC00513,HOSP012,Sneha Reddy,+91-9389984142,patient105@email.com,Insurance Query,Walk-in,60,Medium,New,2026-03-28 21:06:37,2026-06-26 21:06:37
+LEAD000106,DOC00251,HOSP006,Rahul Reddy,+91-9658250819,patient106@email.com,Emergency,App,43,Low,Appointment Booked,2026-04-17 21:06:37,2026-06-26 21:06:37
+LEAD000107,DOC00233,HOSP006,Rahul Kumar,+91-9521787344,patient107@email.com,Follow-up,Web Chat,25,Low,New,2026-05-18 21:06:37,2026-06-26 21:06:37
+LEAD000108,DOC00274,HOSP006,Rahul Kumar,+91-9687844914,patient108@email.com,Emergency,Walk-in,94,High,New,2026-06-22 21:06:37,2026-06-26 21:06:37
+LEAD000109,DOC00139,HOSP004,Sneha Kumar,+91-9394160983,patient109@email.com,Book Appointment,Phone,74,Medium,Lost,2026-04-22 21:06:37,2026-06-26 21:06:37
+LEAD000110,DOC00524,HOSP012,Vikram Reddy,+91-9559291689,patient110@email.com,Emergency,Web Chat,39,Low,Contacted,2026-04-12 21:06:37,2026-06-26 21:06:37
+LEAD000111,DOC00622,HOSP014,Ananya Sharma,+91-9564913270,patient111@email.com,Get Information,Web Chat,56,Medium,Lost,2026-05-14 21:06:37,2026-06-26 21:06:37
+LEAD000112,DOC00419,HOSP011,Arun Reddy,+91-9590443352,patient112@email.com,Emergency,Phone,45,Low,Appointment Booked,2026-05-20 21:06:37,2026-06-26 21:06:37
+LEAD000113,DOC00041,HOSP002,Priya Reddy,+91-9580148196,patient113@email.com,Emergency,Web Chat,50,Medium,Converted,2026-06-12 21:06:37,2026-06-26 21:06:37
+LEAD000114,DOC00616,HOSP014,Priya Sharma,+91-9891666817,patient114@email.com,Book Appointment,Phone,34,Low,New,2026-04-23 21:06:37,2026-06-26 21:06:37
+LEAD000115,DOC00682,HOSP015,Vikram Nair,+91-9483490098,patient115@email.com,Emergency,Web Chat,75,High,Lost,2026-04-22 21:06:37,2026-06-26 21:06:37
+LEAD000116,DOC00440,HOSP011,Sneha Kumar,+91-9671232576,patient116@email.com,Get Information,Phone,23,Low,Converted,2026-05-07 21:06:37,2026-06-26 21:06:37
+LEAD000117,DOC00167,HOSP004,Sneha Reddy,+91-9219636962,patient117@email.com,Get Information,Walk-in,43,Low,Contacted,2026-04-07 21:06:37,2026-06-26 21:06:37
+LEAD000118,DOC00200,HOSP005,Sneha Kumar,+91-9759597195,patient118@email.com,Emergency,Web Chat,52,Medium,Contacted,2026-04-04 21:06:37,2026-06-26 21:06:37
+LEAD000119,DOC00684,HOSP015,Arun Sharma,+91-9624169684,patient119@email.com,Follow-up,WhatsApp,92,High,Appointment Booked,2026-04-02 21:06:37,2026-06-26 21:06:37
+LEAD000120,DOC00282,HOSP006,Priya Kumar,+91-9148017060,patient120@email.com,Emergency,Web Chat,88,High,Contacted,2026-05-11 21:06:37,2026-06-26 21:06:37
+LEAD000121,DOC00401,HOSP010,Sneha Reddy,+91-9750080185,patient121@email.com,Follow-up,Walk-in,97,High,Converted,2026-03-31 21:06:37,2026-06-26 21:06:37
+LEAD000122,DOC00048,HOSP002,Priya Nair,+91-9654633158,patient122@email.com,Get Information,Web Chat,44,Low,Lost,2026-05-02 21:06:37,2026-06-26 21:06:37
+LEAD000123,DOC00298,HOSP007,Arun Reddy,+91-9696063192,patient123@email.com,Follow-up,Web Chat,72,Medium,Lost,2026-05-18 21:06:37,2026-06-26 21:06:37
+LEAD000124,DOC00508,HOSP012,Sneha Kumar,+91-9263626031,patient124@email.com,Emergency,Web Chat,89,High,Appointment Booked,2026-04-16 21:06:37,2026-06-26 21:06:37
+LEAD000125,DOC00383,HOSP009,Arun Kumar,+91-9406672382,patient125@email.com,Insurance Query,Phone,51,Medium,Converted,2026-04-05 21:06:37,2026-06-26 21:06:37
+LEAD000126,DOC00480,HOSP012,Arun Nair,+91-9832286084,patient126@email.com,Insurance Query,Phone,49,Low,Lost,2026-06-20 21:06:37,2026-06-26 21:06:37
+LEAD000127,DOC00660,HOSP015,Priya Reddy,+91-9412867810,patient127@email.com,Follow-up,WhatsApp,76,High,Contacted,2026-05-17 21:06:37,2026-06-26 21:06:37
+LEAD000128,DOC00025,HOSP001,Rahul Sharma,+91-9770076955,patient128@email.com,Get Information,Walk-in,25,Low,Contacted,2026-05-16 21:06:37,2026-06-26 21:06:37
+LEAD000129,DOC00258,HOSP006,Arun Nair,+91-9490926489,patient129@email.com,Follow-up,App,85,High,Contacted,2026-04-18 21:06:37,2026-06-26 21:06:37
+LEAD000130,DOC00064,HOSP002,Vikram Reddy,+91-9952949847,patient130@email.com,Insurance Query,Walk-in,83,High,New,2026-05-04 21:06:37,2026-06-26 21:06:37
+LEAD000131,DOC00566,HOSP013,Rahul Sharma,+91-9593170332,patient131@email.com,Follow-up,Walk-in,49,Low,Appointment Booked,2026-04-15 21:06:37,2026-06-26 21:06:37
+LEAD000132,DOC00689,HOSP015,Vikram Sharma,+91-9802156811,patient132@email.com,Book Appointment,Phone,53,Medium,Converted,2026-05-09 21:06:37,2026-06-26 21:06:37
+LEAD000133,DOC00389,HOSP010,Rahul Sharma,+91-9573082200,patient133@email.com,Insurance Query,Phone,72,Medium,New,2026-05-30 21:06:37,2026-06-26 21:06:37
+LEAD000134,DOC00124,HOSP004,Ananya Reddy,+91-9882030036,patient134@email.com,Insurance Query,Phone,64,Medium,Appointment Booked,2026-06-05 21:06:37,2026-06-26 21:06:37
+LEAD000135,DOC00187,HOSP005,Sneha Reddy,+91-9790516923,patient135@email.com,Insurance Query,Web Chat,98,High,Appointment Booked,2026-05-18 21:06:37,2026-06-26 21:06:37
+LEAD000136,DOC00159,HOSP004,Sneha Nair,+91-9509851287,patient136@email.com,Insurance Query,App,78,High,Contacted,2026-06-21 21:06:37,2026-06-26 21:06:37
+LEAD000137,DOC00569,HOSP013,Sneha Reddy,+91-9418305266,patient137@email.com,Emergency,WhatsApp,78,High,Appointment Booked,2026-04-23 21:06:37,2026-06-26 21:06:37
+LEAD000138,DOC00544,HOSP012,Ananya Nair,+91-9489555437,patient138@email.com,Get Information,Web Chat,68,Medium,Converted,2026-06-01 21:06:37,2026-06-26 21:06:37
+LEAD000139,DOC00052,HOSP002,Sneha Reddy,+91-9525173232,patient139@email.com,Follow-up,Web Chat,64,Medium,Lost,2026-04-16 21:06:37,2026-06-26 21:06:37
+LEAD000140,DOC00642,HOSP015,Rahul Reddy,+91-9592941737,patient140@email.com,Follow-up,Web Chat,73,Medium,Lost,2026-04-21 21:06:37,2026-06-26 21:06:37
+LEAD000141,DOC00088,HOSP003,Sneha Nair,+91-9594437426,patient141@email.com,Emergency,Web Chat,75,High,New,2026-05-06 21:06:37,2026-06-26 21:06:37
+LEAD000142,DOC00537,HOSP012,Sneha Nair,+91-9479548842,patient142@email.com,Emergency,App,60,Medium,Lost,2026-04-09 21:06:37,2026-06-26 21:06:37
+LEAD000143,DOC00006,HOSP001,Vikram Sharma,+91-9572065691,patient143@email.com,Emergency,Phone,48,Low,Contacted,2026-05-01 21:06:37,2026-06-26 21:06:37
+LEAD000144,DOC00654,HOSP015,Priya Reddy,+91-9913760294,patient144@email.com,Get Information,WhatsApp,35,Low,Converted,2026-04-08 21:06:37,2026-06-26 21:06:37
+LEAD000145,DOC00693,HOSP015,Priya Nair,+91-9108997440,patient145@email.com,Insurance Query,WhatsApp,35,Low,New,2026-04-29 21:06:37,2026-06-26 21:06:37
+LEAD000146,DOC00066,HOSP002,Vikram Kumar,+91-9720231809,patient146@email.com,Emergency,App,39,Low,Converted,2026-05-22 21:06:37,2026-06-26 21:06:37
+LEAD000147,DOC00249,HOSP006,Vikram Kumar,+91-9306978716,patient147@email.com,Book Appointment,WhatsApp,98,High,Contacted,2026-06-01 21:06:37,2026-06-26 21:06:37
+LEAD000148,DOC00116,HOSP003,Vikram Sharma,+91-9967728533,patient148@email.com,Insurance Query,Phone,71,Medium,New,2026-04-19 21:06:37,2026-06-26 21:06:37
+LEAD000149,DOC00593,HOSP013,Sneha Nair,+91-9773644156,patient149@email.com,Get Information,App,58,Medium,Converted,2026-04-07 21:06:37,2026-06-26 21:06:37
+LEAD000150,DOC00516,HOSP012,Ananya Reddy,+91-9418346974,patient150@email.com,Emergency,App,24,Low,Appointment Booked,2026-05-22 21:06:37,2026-06-26 21:06:37
+LEAD000151,DOC00320,HOSP008,Vikram Kumar,+91-9517414379,patient151@email.com,Insurance Query,Web Chat,26,Low,New,2026-04-08 21:06:37,2026-06-26 21:06:37
+LEAD000152,DOC00612,HOSP014,Sneha Sharma,+91-9398148680,patient152@email.com,Follow-up,Phone,39,Low,Appointment Booked,2026-04-04 21:06:37,2026-06-26 21:06:37
+LEAD000153,DOC00531,HOSP012,Arun Nair,+91-9386221051,patient153@email.com,Follow-up,App,64,Medium,New,2026-05-27 21:06:37,2026-06-26 21:06:37
+LEAD000154,DOC00342,HOSP008,Ananya Reddy,+91-9625439689,patient154@email.com,Book Appointment,WhatsApp,91,High,Lost,2026-06-02 21:06:37,2026-06-26 21:06:37
+LEAD000155,DOC00220,HOSP005,Rahul Nair,+91-9817212930,patient155@email.com,Get Information,Web Chat,25,Low,Converted,2026-06-19 21:06:37,2026-06-26 21:06:37
+LEAD000156,DOC00178,HOSP005,Priya Nair,+91-9606734701,patient156@email.com,Follow-up,App,63,Medium,Appointment Booked,2026-04-07 21:06:37,2026-06-26 21:06:37
+LEAD000157,DOC00210,HOSP005,Ananya Nair,+91-9114190914,patient157@email.com,Book Appointment,App,64,Medium,Appointment Booked,2026-06-22 21:06:37,2026-06-26 21:06:37
+LEAD000158,DOC00185,HOSP005,Arun Reddy,+91-9808882855,patient158@email.com,Get Information,App,87,High,New,2026-05-18 21:06:37,2026-06-26 21:06:37
+LEAD000159,DOC00530,HOSP012,Sneha Nair,+91-9656477311,patient159@email.com,Book Appointment,Walk-in,97,High,Contacted,2026-06-21 21:06:37,2026-06-26 21:06:37
+LEAD000160,DOC00705,HOSP015,Vikram Kumar,+91-9214699125,patient160@email.com,Emergency,Web Chat,31,Low,Converted,2026-06-07 21:06:37,2026-06-26 21:06:37
+LEAD000161,DOC00253,HOSP006,Sneha Nair,+91-9719945649,patient161@email.com,Get Information,Walk-in,50,Medium,Converted,2026-05-04 21:06:37,2026-06-26 21:06:37
+LEAD000162,DOC00562,HOSP013,Arun Nair,+91-9661919197,patient162@email.com,Follow-up,WhatsApp,81,High,Converted,2026-04-13 21:06:37,2026-06-26 21:06:37
+LEAD000163,DOC00001,HOSP001,Arun Kumar,+91-9925072811,patient163@email.com,Insurance Query,WhatsApp,49,Low,Converted,2026-06-03 21:06:37,2026-06-26 21:06:37
+LEAD000164,DOC00536,HOSP012,Ananya Nair,+91-9189739111,patient164@email.com,Get Information,WhatsApp,24,Low,New,2026-06-15 21:06:37,2026-06-26 21:06:37
+LEAD000165,DOC00248,HOSP006,Vikram Kumar,+91-9322241741,patient165@email.com,Insurance Query,Phone,98,High,Lost,2026-04-04 21:06:37,2026-06-26 21:06:37
+LEAD000166,DOC00610,HOSP014,Vikram Kumar,+91-9503586737,patient166@email.com,Insurance Query,Walk-in,33,Low,New,2026-04-14 21:06:37,2026-06-26 21:06:37
+LEAD000167,DOC00265,HOSP006,Ananya Kumar,+91-9984208188,patient167@email.com,Emergency,Web Chat,62,Medium,New,2026-06-22 21:06:37,2026-06-26 21:06:37
+LEAD000168,DOC00152,HOSP004,Arun Sharma,+91-9852191575,patient168@email.com,Emergency,Walk-in,23,Low,New,2026-06-03 21:06:37,2026-06-26 21:06:37
+LEAD000169,DOC00082,HOSP002,Vikram Reddy,+91-9518912358,patient169@email.com,Book Appointment,WhatsApp,94,High,Appointment Booked,2026-05-15 21:06:37,2026-06-26 21:06:37
+LEAD000170,DOC00150,HOSP004,Ananya Reddy,+91-9728206515,patient170@email.com,Get Information,Phone,72,Medium,New,2026-05-09 21:06:37,2026-06-26 21:06:37
+LEAD000171,DOC00074,HOSP002,Rahul Kumar,+91-9712127582,patient171@email.com,Emergency,Web Chat,47,Low,Lost,2026-06-18 21:06:37,2026-06-26 21:06:37
+LEAD000172,DOC00525,HOSP012,Arun Reddy,+91-9355797424,patient172@email.com,Book Appointment,Phone,57,Medium,Appointment Booked,2026-06-09 21:06:37,2026-06-26 21:06:37
+LEAD000173,DOC00485,HOSP012,Arun Sharma,+91-9186004356,patient173@email.com,Follow-up,WhatsApp,68,Medium,Converted,2026-04-09 21:06:37,2026-06-26 21:06:37
+LEAD000174,DOC00129,HOSP004,Priya Sharma,+91-9459572948,patient174@email.com,Follow-up,WhatsApp,96,High,Appointment Booked,2026-04-08 21:06:37,2026-06-26 21:06:37
+LEAD000175,DOC00302,HOSP007,Ananya Kumar,+91-9941180873,patient175@email.com,Follow-up,Web Chat,43,Low,Appointment Booked,2026-05-21 21:06:37,2026-06-26 21:06:37
+LEAD000176,DOC00373,HOSP009,Ananya Kumar,+91-9817285794,patient176@email.com,Follow-up,WhatsApp,82,High,Appointment Booked,2026-04-17 21:06:37,2026-06-26 21:06:37
+LEAD000177,DOC00556,HOSP013,Sneha Kumar,+91-9921848812,patient177@email.com,Emergency,Walk-in,67,Medium,New,2026-06-17 21:06:37,2026-06-26 21:06:37
+LEAD000178,DOC00673,HOSP015,Sneha Nair,+91-9508246452,patient178@email.com,Insurance Query,Phone,87,High,Appointment Booked,2026-06-04 21:06:37,2026-06-26 21:06:37
+LEAD000179,DOC00456,HOSP011,Arun Kumar,+91-9671685752,patient179@email.com,Follow-up,Walk-in,68,Medium,Lost,2026-04-21 21:06:37,2026-06-26 21:06:37
+LEAD000180,DOC00148,HOSP004,Rahul Nair,+91-9553702447,patient180@email.com,Insurance Query,App,72,Medium,Lost,2026-04-08 21:06:37,2026-06-26 21:06:37
+LEAD000181,DOC00351,HOSP008,Sneha Kumar,+91-9851305178,patient181@email.com,Insurance Query,Walk-in,26,Low,Lost,2026-05-07 21:06:37,2026-06-26 21:06:37
+LEAD000182,DOC00395,HOSP010,Vikram Reddy,+91-9339116306,patient182@email.com,Book Appointment,WhatsApp,27,Low,Contacted,2026-05-17 21:06:37,2026-06-26 21:06:37
+LEAD000183,DOC00303,HOSP007,Arun Nair,+91-9580094876,patient183@email.com,Follow-up,Walk-in,58,Medium,New,2026-05-03 21:06:37,2026-06-26 21:06:37
+LEAD000184,DOC00526,HOSP012,Rahul Reddy,+91-9480495929,patient184@email.com,Follow-up,Web Chat,30,Low,Converted,2026-06-06 21:06:37,2026-06-26 21:06:37
+LEAD000185,DOC00019,HOSP001,Rahul Nair,+91-9332776171,patient185@email.com,Emergency,WhatsApp,68,Medium,Appointment Booked,2026-05-08 21:06:37,2026-06-26 21:06:37
+LEAD000186,DOC00018,HOSP001,Ananya Kumar,+91-9594352254,patient186@email.com,Insurance Query,App,76,High,Contacted,2026-06-07 21:06:37,2026-06-26 21:06:37
+LEAD000187,DOC00219,HOSP005,Rahul Sharma,+91-9556835255,patient187@email.com,Emergency,App,77,High,New,2026-06-18 21:06:37,2026-06-26 21:06:37
+LEAD000188,DOC00426,HOSP011,Priya Nair,+91-9636056204,patient188@email.com,Emergency,Phone,83,High,Appointment Booked,2026-05-26 21:06:37,2026-06-26 21:06:37
+LEAD000189,DOC00312,HOSP008,Ananya Nair,+91-9786197977,patient189@email.com,Follow-up,App,46,Low,Appointment Booked,2026-06-11 21:06:37,2026-06-26 21:06:37
+LEAD000190,DOC00321,HOSP008,Ananya Sharma,+91-9835350394,patient190@email.com,Insurance Query,Phone,65,Medium,New,2026-06-25 21:06:37,2026-06-26 21:06:37
+LEAD000191,DOC00575,HOSP013,Arun Kumar,+91-9746603713,patient191@email.com,Insurance Query,Phone,46,Low,New,2026-05-20 21:06:37,2026-06-26 21:06:37
+LEAD000192,DOC00678,HOSP015,Vikram Nair,+91-9998574941,patient192@email.com,Book Appointment,WhatsApp,91,High,Appointment Booked,2026-05-16 21:06:37,2026-06-26 21:06:37
+LEAD000193,DOC00262,HOSP006,Sneha Kumar,+91-9179443493,patient193@email.com,Get Information,Walk-in,75,High,Appointment Booked,2026-04-15 21:06:37,2026-06-26 21:06:37
+LEAD000194,DOC00062,HOSP002,Priya Nair,+91-9305426894,patient194@email.com,Book Appointment,App,24,Low,New,2026-05-19 21:06:37,2026-06-26 21:06:37
+LEAD000195,DOC00218,HOSP005,Arun Nair,+91-9710194464,patient195@email.com,Follow-up,Web Chat,35,Low,Contacted,2026-05-02 21:06:37,2026-06-26 21:06:37
+LEAD000196,DOC00028,HOSP001,Rahul Nair,+91-9866993624,patient196@email.com,Follow-up,Walk-in,29,Low,Appointment Booked,2026-04-21 21:06:37,2026-06-26 21:06:37
+LEAD000197,DOC00470,HOSP011,Rahul Kumar,+91-9872388706,patient197@email.com,Book Appointment,WhatsApp,48,Low,Contacted,2026-05-31 21:06:37,2026-06-26 21:06:37
+LEAD000198,DOC00688,HOSP015,Ananya Reddy,+91-9698113069,patient198@email.com,Follow-up,App,73,Medium,Appointment Booked,2026-05-19 21:06:37,2026-06-26 21:06:37
+LEAD000199,DOC00084,HOSP003,Rahul Kumar,+91-9189597495,patient199@email.com,Insurance Query,App,82,High,Appointment Booked,2026-04-23 21:06:37,2026-06-26 21:06:37
+LEAD000200,DOC00110,HOSP003,Arun Kumar,+91-9993663583,patient200@email.com,Book Appointment,App,82,High,Appointment Booked,2026-04-23 21:06:37,2026-06-26 21:06:37

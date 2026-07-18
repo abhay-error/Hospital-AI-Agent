@@ -1,0 +1,202 @@
+service_id,hospital_id,hospital_name,service_name,description,category,price,duration_minutes,requires_appointment,available_24x7,insurance_covered
+SVC00001,HOSP001,Manipal Hospital,ECG,12-lead electrocardiogram,Diagnostic,290,120,True,False,False
+SVC00002,HOSP001,Manipal Hospital,Vaccination,Immunization services,Preventive,1972,45,True,False,False
+SVC00003,HOSP001,Manipal Hospital,X-Ray,Digital radiography,Imaging,751,15,True,False,True
+SVC00004,HOSP001,Manipal Hospital,Dialysis,Hemodialysis session,Procedure,4635,120,True,False,True
+SVC00005,HOSP001,Manipal Hospital,Health Checkup - Comprehensive,Full body checkup,Package,6374,30,True,False,False
+SVC00006,HOSP001,Manipal Hospital,Blood Test - CBC,Complete blood count,Lab,340,30,False,False,True
+SVC00007,HOSP001,Manipal Hospital,Surgical Procedure,Minor/major surgical intervention,Surgery,93235,60,True,False,True
+SVC00008,HOSP001,Manipal Hospital,OPD Consultation,Outpatient consultation with specialist,Consultation,301,90,False,False,False
+SVC00009,HOSP001,Manipal Hospital,Blood Test - LFT,Liver function test,Lab,941,90,False,False,False
+SVC00010,HOSP001,Manipal Hospital,Blood Test - KFT,Kidney function test,Lab,818,60,True,False,False
+SVC00011,HOSP002,Fortis Hospital,Ultrasound,Abdominal/pelvic ultrasound,Imaging,2232,15,True,False,True
+SVC00012,HOSP002,Fortis Hospital,Dialysis,Hemodialysis session,Procedure,2550,45,True,False,True
+SVC00013,HOSP002,Fortis Hospital,Vaccination,Immunization services,Preventive,814,30,True,False,True
+SVC00014,HOSP002,Fortis Hospital,Emergency Services,24/7 emergency care,Emergency,0,60,True,True,True
+SVC00015,HOSP002,Fortis Hospital,General Ward (per day),General ward admission,Inpatient,4123,15,True,False,False
+SVC00016,HOSP002,Fortis Hospital,X-Ray,Digital radiography,Imaging,518,15,True,False,False
+SVC00017,HOSP002,Fortis Hospital,Blood Test - KFT,Kidney function test,Lab,853,120,True,False,False
+SVC00018,HOSP002,Fortis Hospital,ECG,12-lead electrocardiogram,Diagnostic,354,120,True,False,True
+SVC00019,HOSP002,Fortis Hospital,Physiotherapy,Physical therapy session,Therapy,1062,120,True,False,True
+SVC00020,HOSP002,Fortis Hospital,MRI Scan,Magnetic resonance imaging,Imaging,11247,45,False,False,False
+SVC00021,HOSP002,Fortis Hospital,OPD Consultation,Outpatient consultation with specialist,Consultation,773,60,True,False,True
+SVC00022,HOSP002,Fortis Hospital,2D Echo,Echocardiography,Cardiac,2788,90,True,False,False
+SVC00023,HOSP002,Fortis Hospital,Blood Test - LFT,Liver function test,Lab,719,15,True,False,False
+SVC00024,HOSP002,Fortis Hospital,Surgical Procedure,Minor/major surgical intervention,Surgery,146070,60,True,False,True
+SVC00025,HOSP002,Fortis Hospital,Health Checkup - Comprehensive,Full body checkup,Package,5903,30,True,False,True
+SVC00026,HOSP002,Fortis Hospital,Health Checkup - Basic,Basic health screening package,Package,2236,30,True,False,False
+SVC00027,HOSP003,Apollo Hospitals,Vaccination,Immunization services,Preventive,690,60,True,False,True
+SVC00028,HOSP003,Apollo Hospitals,MRI Scan,Magnetic resonance imaging,Imaging,11318,120,False,False,False
+SVC00029,HOSP003,Apollo Hospitals,Health Checkup - Comprehensive,Full body checkup,Package,9642,90,True,False,False
+SVC00030,HOSP003,Apollo Hospitals,Emergency Services,24/7 emergency care,Emergency,0,90,True,True,False
+SVC00031,HOSP003,Apollo Hospitals,OPD Consultation,Outpatient consultation with specialist,Consultation,481,120,True,False,True
+SVC00032,HOSP003,Apollo Hospitals,Health Checkup - Basic,Basic health screening package,Package,3672,15,True,False,True
+SVC00033,HOSP003,Apollo Hospitals,Ultrasound,Abdominal/pelvic ultrasound,Imaging,1278,60,True,False,False
+SVC00034,HOSP003,Apollo Hospitals,General Ward (per day),General ward admission,Inpatient,3804,90,True,False,True
+SVC00035,HOSP003,Apollo Hospitals,Physiotherapy,Physical therapy session,Therapy,785,90,True,False,True
+SVC00036,HOSP003,Apollo Hospitals,2D Echo,Echocardiography,Cardiac,1742,15,False,False,False
+SVC00037,HOSP003,Apollo Hospitals,Endoscopy,Upper GI endoscopy,Procedure,4665,60,True,False,False
+SVC00038,HOSP003,Apollo Hospitals,CT Scan,Computed tomography scan,Imaging,6675,120,False,False,True
+SVC00039,HOSP004,Narayana Health,MRI Scan,Magnetic resonance imaging,Imaging,11573,45,False,False,False
+SVC00040,HOSP004,Narayana Health,Blood Test - KFT,Kidney function test,Lab,959,30,True,False,True
+SVC00041,HOSP004,Narayana Health,Ultrasound,Abdominal/pelvic ultrasound,Imaging,1396,120,True,False,True
+SVC00042,HOSP004,Narayana Health,OPD Consultation,Outpatient consultation with specialist,Consultation,485,30,True,False,True
+SVC00043,HOSP004,Narayana Health,ECG,12-lead electrocardiogram,Diagnostic,344,60,True,False,True
+SVC00044,HOSP004,Narayana Health,Blood Test - LFT,Liver function test,Lab,834,45,True,False,True
+SVC00045,HOSP004,Narayana Health,X-Ray,Digital radiography,Imaging,569,120,False,False,True
+SVC00046,HOSP004,Narayana Health,2D Echo,Echocardiography,Cardiac,1617,60,True,False,False
+SVC00047,HOSP004,Narayana Health,Endoscopy,Upper GI endoscopy,Procedure,3580,15,True,False,True
+SVC00048,HOSP004,Narayana Health,CT Scan,Computed tomography scan,Imaging,9161,45,True,False,True
+SVC00049,HOSP004,Narayana Health,Emergency Services,24/7 emergency care,Emergency,0,15,True,True,True
+SVC00050,HOSP004,Narayana Health,Health Checkup - Comprehensive,Full body checkup,Package,9557,60,True,False,True
+SVC00051,HOSP004,Narayana Health,Surgical Procedure,Minor/major surgical intervention,Surgery,173325,60,True,False,False
+SVC00052,HOSP004,Narayana Health,Blood Test - CBC,Complete blood count,Lab,481,45,False,False,True
+SVC00053,HOSP004,Narayana Health,Vaccination,Immunization services,Preventive,593,120,False,False,True
+SVC00054,HOSP004,Narayana Health,Dialysis,Hemodialysis session,Procedure,3543,90,False,False,True
+SVC00055,HOSP004,Narayana Health,ICU Care (per day),Intensive care unit admission,Inpatient,16881,30,True,False,False
+SVC00056,HOSP004,Narayana Health,Health Checkup - Basic,Basic health screening package,Package,1616,15,True,False,False
+SVC00057,HOSP005,Columbia Asia Hospital,OPD Consultation,Outpatient consultation with specialist,Consultation,1159,60,True,False,True
+SVC00058,HOSP005,Columbia Asia Hospital,Health Checkup - Basic,Basic health screening package,Package,3906,45,False,False,False
+SVC00059,HOSP005,Columbia Asia Hospital,CT Scan,Computed tomography scan,Imaging,8948,90,True,False,True
+SVC00060,HOSP005,Columbia Asia Hospital,Emergency Services,24/7 emergency care,Emergency,0,120,True,True,True
+SVC00061,HOSP005,Columbia Asia Hospital,Blood Test - KFT,Kidney function test,Lab,1061,15,False,False,False
+SVC00062,HOSP005,Columbia Asia Hospital,Health Checkup - Comprehensive,Full body checkup,Package,7278,90,False,False,False
+SVC00063,HOSP005,Columbia Asia Hospital,Surgical Procedure,Minor/major surgical intervention,Surgery,174994,90,False,False,True
+SVC00064,HOSP005,Columbia Asia Hospital,MRI Scan,Magnetic resonance imaging,Imaging,8251,15,True,False,True
+SVC00065,HOSP005,Columbia Asia Hospital,ICU Care (per day),Intensive care unit admission,Inpatient,24672,60,True,False,False
+SVC00066,HOSP005,Columbia Asia Hospital,Ultrasound,Abdominal/pelvic ultrasound,Imaging,2024,45,True,False,True
+SVC00067,HOSP005,Columbia Asia Hospital,ECG,12-lead electrocardiogram,Diagnostic,227,60,True,False,False
+SVC00068,HOSP005,Columbia Asia Hospital,Blood Test - CBC,Complete blood count,Lab,416,90,True,False,False
+SVC00069,HOSP005,Columbia Asia Hospital,Endoscopy,Upper GI endoscopy,Procedure,6402,15,True,False,True
+SVC00070,HOSP005,Columbia Asia Hospital,Physiotherapy,Physical therapy session,Therapy,1432,30,True,False,False
+SVC00071,HOSP005,Columbia Asia Hospital,X-Ray,Digital radiography,Imaging,627,30,True,False,True
+SVC00072,HOSP006,BGS Gleneagles,CT Scan,Computed tomography scan,Imaging,6089,60,True,False,False
+SVC00073,HOSP006,BGS Gleneagles,MRI Scan,Magnetic resonance imaging,Imaging,7103,30,True,False,False
+SVC00074,HOSP006,BGS Gleneagles,X-Ray,Digital radiography,Imaging,315,120,False,False,True
+SVC00075,HOSP006,BGS Gleneagles,Ultrasound,Abdominal/pelvic ultrasound,Imaging,1604,120,False,False,False
+SVC00076,HOSP006,BGS Gleneagles,2D Echo,Echocardiography,Cardiac,2523,90,False,False,False
+SVC00077,HOSP006,BGS Gleneagles,Blood Test - KFT,Kidney function test,Lab,905,45,True,False,True
+SVC00078,HOSP006,BGS Gleneagles,Emergency Services,24/7 emergency care,Emergency,0,15,True,True,False
+SVC00079,HOSP006,BGS Gleneagles,Vaccination,Immunization services,Preventive,1757,60,True,False,True
+SVC00080,HOSP006,BGS Gleneagles,Physiotherapy,Physical therapy session,Therapy,754,30,False,False,False
+SVC00081,HOSP006,BGS Gleneagles,Blood Test - CBC,Complete blood count,Lab,221,120,True,False,True
+SVC00082,HOSP006,BGS Gleneagles,Blood Test - LFT,Liver function test,Lab,1078,45,False,False,True
+SVC00083,HOSP006,BGS Gleneagles,Health Checkup - Basic,Basic health screening package,Package,3365,15,True,False,True
+SVC00084,HOSP007,Sakra World Hospital,CT Scan,Computed tomography scan,Imaging,4813,30,True,False,True
+SVC00085,HOSP007,Sakra World Hospital,Blood Test - LFT,Liver function test,Lab,1107,90,False,False,False
+SVC00086,HOSP007,Sakra World Hospital,General Ward (per day),General ward admission,Inpatient,5768,15,False,False,True
+SVC00087,HOSP007,Sakra World Hospital,Endoscopy,Upper GI endoscopy,Procedure,5572,15,False,False,True
+SVC00088,HOSP007,Sakra World Hospital,Health Checkup - Comprehensive,Full body checkup,Package,13589,15,False,False,False
+SVC00089,HOSP007,Sakra World Hospital,Emergency Services,24/7 emergency care,Emergency,0,15,False,True,True
+SVC00090,HOSP007,Sakra World Hospital,ECG,12-lead electrocardiogram,Diagnostic,353,120,True,False,False
+SVC00091,HOSP007,Sakra World Hospital,Blood Test - CBC,Complete blood count,Lab,394,30,False,False,True
+SVC00092,HOSP007,Sakra World Hospital,X-Ray,Digital radiography,Imaging,474,15,True,False,False
+SVC00093,HOSP007,Sakra World Hospital,ICU Care (per day),Intensive care unit admission,Inpatient,19268,15,True,False,True
+SVC00094,HOSP007,Sakra World Hospital,Blood Test - KFT,Kidney function test,Lab,886,15,True,False,False
+SVC00095,HOSP008,Aster CMI Hospital,Blood Test - KFT,Kidney function test,Lab,540,30,True,False,True
+SVC00096,HOSP008,Aster CMI Hospital,2D Echo,Echocardiography,Cardiac,2340,45,False,False,False
+SVC00097,HOSP008,Aster CMI Hospital,Vaccination,Immunization services,Preventive,1637,60,True,False,False
+SVC00098,HOSP008,Aster CMI Hospital,Blood Test - LFT,Liver function test,Lab,919,60,True,False,True
+SVC00099,HOSP008,Aster CMI Hospital,ICU Care (per day),Intensive care unit admission,Inpatient,14479,30,True,False,False
+SVC00100,HOSP008,Aster CMI Hospital,Health Checkup - Comprehensive,Full body checkup,Package,5119,90,False,False,False
+SVC00101,HOSP008,Aster CMI Hospital,Ultrasound,Abdominal/pelvic ultrasound,Imaging,2008,90,True,False,False
+SVC00102,HOSP008,Aster CMI Hospital,Emergency Services,24/7 emergency care,Emergency,0,45,True,True,False
+SVC00103,HOSP008,Aster CMI Hospital,General Ward (per day),General ward admission,Inpatient,3791,45,False,False,True
+SVC00104,HOSP008,Aster CMI Hospital,Health Checkup - Basic,Basic health screening package,Package,2697,30,True,False,False
+SVC00105,HOSP008,Aster CMI Hospital,Physiotherapy,Physical therapy session,Therapy,1051,120,False,False,False
+SVC00106,HOSP009,St. John's Hospital,X-Ray,Digital radiography,Imaging,322,30,False,False,True
+SVC00107,HOSP009,St. John's Hospital,Physiotherapy,Physical therapy session,Therapy,1280,30,True,False,True
+SVC00108,HOSP009,St. John's Hospital,Blood Test - KFT,Kidney function test,Lab,595,15,False,False,True
+SVC00109,HOSP009,St. John's Hospital,2D Echo,Echocardiography,Cardiac,2765,60,True,False,False
+SVC00110,HOSP009,St. John's Hospital,Ultrasound,Abdominal/pelvic ultrasound,Imaging,1295,30,True,False,False
+SVC00111,HOSP009,St. John's Hospital,Emergency Services,24/7 emergency care,Emergency,0,45,True,True,False
+SVC00112,HOSP009,St. John's Hospital,CT Scan,Computed tomography scan,Imaging,9430,90,True,False,False
+SVC00113,HOSP009,St. John's Hospital,Blood Test - LFT,Liver function test,Lab,956,15,False,False,False
+SVC00114,HOSP010,NIMHANS,MRI Scan,Magnetic resonance imaging,Imaging,5184,60,True,False,True
+SVC00115,HOSP010,NIMHANS,Ultrasound,Abdominal/pelvic ultrasound,Imaging,886,60,False,False,False
+SVC00116,HOSP010,NIMHANS,Blood Test - CBC,Complete blood count,Lab,350,45,True,False,True
+SVC00117,HOSP010,NIMHANS,Surgical Procedure,Minor/major surgical intervention,Surgery,97177,15,False,False,True
+SVC00118,HOSP010,NIMHANS,ICU Care (per day),Intensive care unit admission,Inpatient,26772,60,False,False,False
+SVC00119,HOSP010,NIMHANS,Health Checkup - Comprehensive,Full body checkup,Package,11122,45,True,False,False
+SVC00120,HOSP010,NIMHANS,Blood Test - LFT,Liver function test,Lab,563,90,False,False,False
+SVC00121,HOSP010,NIMHANS,2D Echo,Echocardiography,Cardiac,2639,45,False,False,True
+SVC00122,HOSP010,NIMHANS,OPD Consultation,Outpatient consultation with specialist,Consultation,533,120,True,False,False
+SVC00123,HOSP010,NIMHANS,Physiotherapy,Physical therapy session,Therapy,714,45,False,False,True
+SVC00124,HOSP010,NIMHANS,Blood Test - KFT,Kidney function test,Lab,1000,15,False,False,False
+SVC00125,HOSP010,NIMHANS,Endoscopy,Upper GI endoscopy,Procedure,7155,60,True,False,False
+SVC00126,HOSP010,NIMHANS,Dialysis,Hemodialysis session,Procedure,4563,45,True,False,True
+SVC00127,HOSP010,NIMHANS,X-Ray,Digital radiography,Imaging,437,60,False,False,True
+SVC00128,HOSP010,NIMHANS,Emergency Services,24/7 emergency care,Emergency,0,90,False,True,True
+SVC00129,HOSP010,NIMHANS,General Ward (per day),General ward admission,Inpatient,5665,120,True,False,False
+SVC00130,HOSP010,NIMHANS,Vaccination,Immunization services,Preventive,1260,15,True,False,True
+SVC00131,HOSP010,NIMHANS,ECG,12-lead electrocardiogram,Diagnostic,254,120,False,False,True
+SVC00132,HOSP011,Victoria Hospital,OPD Consultation,Outpatient consultation with specialist,Consultation,903,30,False,False,False
+SVC00133,HOSP011,Victoria Hospital,Dialysis,Hemodialysis session,Procedure,4317,45,True,False,True
+SVC00134,HOSP011,Victoria Hospital,Surgical Procedure,Minor/major surgical intervention,Surgery,173708,15,False,False,False
+SVC00135,HOSP011,Victoria Hospital,Vaccination,Immunization services,Preventive,1050,15,True,False,False
+SVC00136,HOSP011,Victoria Hospital,General Ward (per day),General ward admission,Inpatient,5697,30,False,False,True
+SVC00137,HOSP011,Victoria Hospital,Health Checkup - Basic,Basic health screening package,Package,2125,90,True,False,False
+SVC00138,HOSP011,Victoria Hospital,ICU Care (per day),Intensive care unit admission,Inpatient,17585,60,False,False,False
+SVC00139,HOSP011,Victoria Hospital,Physiotherapy,Physical therapy session,Therapy,1478,15,False,False,False
+SVC00140,HOSP011,Victoria Hospital,Health Checkup - Comprehensive,Full body checkup,Package,12394,120,False,False,True
+SVC00141,HOSP011,Victoria Hospital,Blood Test - LFT,Liver function test,Lab,1033,15,True,False,False
+SVC00142,HOSP011,Victoria Hospital,2D Echo,Echocardiography,Cardiac,3524,120,False,False,False
+SVC00143,HOSP011,Victoria Hospital,Endoscopy,Upper GI endoscopy,Procedure,7613,90,True,False,False
+SVC00144,HOSP011,Victoria Hospital,Emergency Services,24/7 emergency care,Emergency,0,120,True,True,True
+SVC00145,HOSP011,Victoria Hospital,MRI Scan,Magnetic resonance imaging,Imaging,10735,30,True,False,True
+SVC00146,HOSP011,Victoria Hospital,CT Scan,Computed tomography scan,Imaging,8156,45,True,False,True
+SVC00147,HOSP011,Victoria Hospital,Blood Test - KFT,Kidney function test,Lab,529,15,True,False,True
+SVC00148,HOSP011,Victoria Hospital,Ultrasound,Abdominal/pelvic ultrasound,Imaging,807,15,False,False,True
+SVC00149,HOSP011,Victoria Hospital,X-Ray,Digital radiography,Imaging,775,30,True,False,False
+SVC00150,HOSP012,Bowring & Lady Curzon Hospital,Health Checkup - Comprehensive,Full body checkup,Package,9472,60,False,False,True
+SVC00151,HOSP012,Bowring & Lady Curzon Hospital,Blood Test - LFT,Liver function test,Lab,559,120,False,False,False
+SVC00152,HOSP012,Bowring & Lady Curzon Hospital,Blood Test - CBC,Complete blood count,Lab,278,45,True,False,False
+SVC00153,HOSP012,Bowring & Lady Curzon Hospital,MRI Scan,Magnetic resonance imaging,Imaging,12209,45,False,False,False
+SVC00154,HOSP012,Bowring & Lady Curzon Hospital,General Ward (per day),General ward admission,Inpatient,4855,15,False,False,True
+SVC00155,HOSP012,Bowring & Lady Curzon Hospital,ICU Care (per day),Intensive care unit admission,Inpatient,25362,15,False,False,False
+SVC00156,HOSP012,Bowring & Lady Curzon Hospital,OPD Consultation,Outpatient consultation with specialist,Consultation,1320,15,False,False,True
+SVC00157,HOSP012,Bowring & Lady Curzon Hospital,ECG,12-lead electrocardiogram,Diagnostic,452,90,True,False,False
+SVC00158,HOSP012,Bowring & Lady Curzon Hospital,Dialysis,Hemodialysis session,Procedure,3904,30,True,False,False
+SVC00159,HOSP012,Bowring & Lady Curzon Hospital,Ultrasound,Abdominal/pelvic ultrasound,Imaging,1218,30,False,False,True
+SVC00160,HOSP012,Bowring & Lady Curzon Hospital,X-Ray,Digital radiography,Imaging,517,120,True,False,False
+SVC00161,HOSP012,Bowring & Lady Curzon Hospital,Emergency Services,24/7 emergency care,Emergency,0,60,False,True,False
+SVC00162,HOSP012,Bowring & Lady Curzon Hospital,Endoscopy,Upper GI endoscopy,Procedure,4074,30,True,False,False
+SVC00163,HOSP012,Bowring & Lady Curzon Hospital,Vaccination,Immunization services,Preventive,1355,120,False,False,True
+SVC00164,HOSP012,Bowring & Lady Curzon Hospital,Blood Test - KFT,Kidney function test,Lab,1097,60,True,False,False
+SVC00165,HOSP012,Bowring & Lady Curzon Hospital,Surgical Procedure,Minor/major surgical intervention,Surgery,27478,60,True,False,False
+SVC00166,HOSP012,Bowring & Lady Curzon Hospital,CT Scan,Computed tomography scan,Imaging,6750,45,True,False,False
+SVC00167,HOSP012,Bowring & Lady Curzon Hospital,Physiotherapy,Physical therapy session,Therapy,727,30,False,False,False
+SVC00168,HOSP012,Bowring & Lady Curzon Hospital,Health Checkup - Basic,Basic health screening package,Package,1923,60,True,False,False
+SVC00169,HOSP012,Bowring & Lady Curzon Hospital,2D Echo,Echocardiography,Cardiac,1695,45,True,False,True
+SVC00170,HOSP013,Sparsh Hospital,Vaccination,Immunization services,Preventive,1209,60,True,False,False
+SVC00171,HOSP013,Sparsh Hospital,CT Scan,Computed tomography scan,Imaging,3702,60,True,False,True
+SVC00172,HOSP013,Sparsh Hospital,Health Checkup - Comprehensive,Full body checkup,Package,9504,90,True,False,False
+SVC00173,HOSP013,Sparsh Hospital,Health Checkup - Basic,Basic health screening package,Package,3305,15,False,False,True
+SVC00174,HOSP013,Sparsh Hospital,2D Echo,Echocardiography,Cardiac,2366,60,False,False,True
+SVC00175,HOSP013,Sparsh Hospital,Blood Test - CBC,Complete blood count,Lab,337,120,False,False,True
+SVC00176,HOSP013,Sparsh Hospital,Dialysis,Hemodialysis session,Procedure,4327,120,True,False,False
+SVC00177,HOSP013,Sparsh Hospital,Blood Test - LFT,Liver function test,Lab,742,30,True,False,True
+SVC00178,HOSP013,Sparsh Hospital,Blood Test - KFT,Kidney function test,Lab,960,45,True,False,True
+SVC00179,HOSP013,Sparsh Hospital,Emergency Services,24/7 emergency care,Emergency,0,15,False,True,True
+SVC00180,HOSP013,Sparsh Hospital,Surgical Procedure,Minor/major surgical intervention,Surgery,166549,90,True,False,True
+SVC00181,HOSP013,Sparsh Hospital,Ultrasound,Abdominal/pelvic ultrasound,Imaging,1201,30,True,False,True
+SVC00182,HOSP013,Sparsh Hospital,Physiotherapy,Physical therapy session,Therapy,952,60,True,False,False
+SVC00183,HOSP013,Sparsh Hospital,MRI Scan,Magnetic resonance imaging,Imaging,11529,30,False,False,False
+SVC00184,HOSP014,Cloudnine Hospital,Vaccination,Immunization services,Preventive,827,60,False,False,True
+SVC00185,HOSP014,Cloudnine Hospital,OPD Consultation,Outpatient consultation with specialist,Consultation,1112,45,True,False,False
+SVC00186,HOSP014,Cloudnine Hospital,Health Checkup - Basic,Basic health screening package,Package,2631,45,True,False,False
+SVC00187,HOSP014,Cloudnine Hospital,CT Scan,Computed tomography scan,Imaging,9470,30,True,False,False
+SVC00188,HOSP014,Cloudnine Hospital,MRI Scan,Magnetic resonance imaging,Imaging,7056,15,True,False,False
+SVC00189,HOSP014,Cloudnine Hospital,Emergency Services,24/7 emergency care,Emergency,0,15,True,True,True
+SVC00190,HOSP014,Cloudnine Hospital,Endoscopy,Upper GI endoscopy,Procedure,5866,120,False,False,False
+SVC00191,HOSP014,Cloudnine Hospital,2D Echo,Echocardiography,Cardiac,2992,120,False,False,False
+SVC00192,HOSP014,Cloudnine Hospital,ICU Care (per day),Intensive care unit admission,Inpatient,17515,120,True,False,False
+SVC00193,HOSP014,Cloudnine Hospital,Blood Test - LFT,Liver function test,Lab,918,120,False,False,False
+SVC00194,HOSP015,Motherhood Hospital,X-Ray,Digital radiography,Imaging,581,90,False,False,False
+SVC00195,HOSP015,Motherhood Hospital,CT Scan,Computed tomography scan,Imaging,4445,45,True,False,False
+SVC00196,HOSP015,Motherhood Hospital,Endoscopy,Upper GI endoscopy,Procedure,6643,60,True,False,True
+SVC00197,HOSP015,Motherhood Hospital,Emergency Services,24/7 emergency care,Emergency,0,30,True,True,False
+SVC00198,HOSP015,Motherhood Hospital,ICU Care (per day),Intensive care unit admission,Inpatient,12495,15,False,False,False
+SVC00199,HOSP015,Motherhood Hospital,Dialysis,Hemodialysis session,Procedure,3859,120,False,False,False
+SVC00200,HOSP015,Motherhood Hospital,2D Echo,Echocardiography,Cardiac,2551,45,True,False,True
+SVC00201,HOSP015,Motherhood Hospital,MRI Scan,Magnetic resonance imaging,Imaging,11250,30,True,False,False

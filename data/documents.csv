@@ -1,0 +1,70 @@
+document_id,hospital_id,title,category,file_type,file_size_kb,upload_date,expiry_date,is_public,description
+DOCU00001,HOSP001,Manipal Hospital – Insurance Empanelment,Insurance,PDF,2950,2026-05-09,2027-02-16,False,Official insurance empanelment document for Manipal Hospital
+DOCU00002,HOSP001,Manipal Hospital – Price List,Information,PDF,1657,2025-09-14,2027-11-12,False,Official price list document for Manipal Hospital
+DOCU00003,HOSP001,Manipal Hospital – Visiting Hours Policy,Policy,PDF,4001,2024-08-03,2028-09-05,True,Official visiting hours policy document for Manipal Hospital
+DOCU00004,HOSP002,Fortis Hospital – Visiting Hours Policy,Policy,PDF,3427,2025-10-19,2028-11-30,False,Official visiting hours policy document for Fortis Hospital
+DOCU00005,HOSP002,Fortis Hospital – Quality Policy,Policy,DOCX,3605,2025-08-14,2029-05-17,True,Official quality policy document for Fortis Hospital
+DOCU00006,HOSP002,Fortis Hospital – NABH Certificate,Certification,PDF,2298,2025-07-30,2028-11-30,True,Official nabh certificate document for Fortis Hospital
+DOCU00007,HOSP002,Fortis Hospital – Doctor Registration,License,PDF,1383,2024-07-09,2028-09-10,False,Official doctor registration document for Fortis Hospital
+DOCU00008,HOSP003,Apollo Hospitals – Facility License,License,PDF,2959,2026-03-15,2027-12-04,False,Official facility license document for Apollo Hospitals
+DOCU00009,HOSP003,Apollo Hospitals – Insurance Empanelment,Insurance,PDF,2176,2025-01-13,2027-10-31,False,Official insurance empanelment document for Apollo Hospitals
+DOCU00010,HOSP003,Apollo Hospitals – NABH Certificate,Certification,PDF,3010,2025-05-27,2027-03-20,True,Official nabh certificate document for Apollo Hospitals
+DOCU00011,HOSP003,Apollo Hospitals – Doctor Registration,License,PDF,963,2024-12-07,2027-10-16,False,Official doctor registration document for Apollo Hospitals
+DOCU00012,HOSP003,Apollo Hospitals – Visiting Hours Policy,Policy,DOCX,1570,2024-11-03,2028-10-26,True,Official visiting hours policy document for Apollo Hospitals
+DOCU00013,HOSP004,Narayana Health – Quality Policy,Policy,DOCX,101,2024-11-15,2028-05-18,True,Official quality policy document for Narayana Health
+DOCU00014,HOSP004,Narayana Health – NABH Certificate,Certification,DOCX,4151,2025-06-19,2028-02-27,False,Official nabh certificate document for Narayana Health
+DOCU00015,HOSP004,Narayana Health – Insurance Empanelment,Insurance,PDF,3336,2026-01-16,2028-01-16,False,Official insurance empanelment document for Narayana Health
+DOCU00016,HOSP004,Narayana Health – Visiting Hours Policy,Policy,PDF,1572,2024-12-11,2027-08-17,False,Official visiting hours policy document for Narayana Health
+DOCU00017,HOSP004,Narayana Health – Facility License,License,PDF,315,2025-07-31,2028-05-23,False,Official facility license document for Narayana Health
+DOCU00018,HOSP004,Narayana Health – Patient Rights Charter,Policy,DOCX,219,2026-03-16,2028-10-07,True,Official patient rights charter document for Narayana Health
+DOCU00019,HOSP005,Columbia Asia Hospital – Insurance Empanelment,Insurance,PDF,4684,2025-01-18,2027-04-14,False,Official insurance empanelment document for Columbia Asia Hospital
+DOCU00020,HOSP005,Columbia Asia Hospital – Price List,Information,PDF,659,2024-10-23,2027-10-09,False,Official price list document for Columbia Asia Hospital
+DOCU00021,HOSP005,Columbia Asia Hospital – Visiting Hours Policy,Policy,DOCX,4280,2025-09-24,2028-03-11,True,Official visiting hours policy document for Columbia Asia Hospital
+DOCU00022,HOSP005,Columbia Asia Hospital – Quality Policy,Policy,PDF,2189,2025-07-12,2027-11-18,True,Official quality policy document for Columbia Asia Hospital
+DOCU00023,HOSP006,BGS Gleneagles – NABH Certificate,Certification,DOCX,2187,2025-10-14,2027-07-26,False,Official nabh certificate document for BGS Gleneagles
+DOCU00024,HOSP006,BGS Gleneagles – Insurance Empanelment,Insurance,PDF,1172,2025-12-16,2029-02-20,False,Official insurance empanelment document for BGS Gleneagles
+DOCU00025,HOSP006,BGS Gleneagles – Accreditation Certificate,Certification,PDF,2605,2025-10-21,2028-05-09,False,Official accreditation certificate document for BGS Gleneagles
+DOCU00026,HOSP006,BGS Gleneagles – Doctor Registration,License,PDF,2207,2026-01-11,2028-06-27,True,Official doctor registration document for BGS Gleneagles
+DOCU00027,HOSP006,BGS Gleneagles – Quality Policy,Policy,PDF,4087,2025-08-09,2028-01-10,True,Official quality policy document for BGS Gleneagles
+DOCU00028,HOSP006,BGS Gleneagles – Patient Rights Charter,Policy,DOCX,2164,2024-07-08,2026-08-27,True,Official patient rights charter document for BGS Gleneagles
+DOCU00029,HOSP007,Sakra World Hospital – Doctor Registration,License,PDF,2997,2025-05-23,2028-02-16,True,Official doctor registration document for Sakra World Hospital
+DOCU00030,HOSP007,Sakra World Hospital – Price List,Information,PDF,4237,2025-06-18,2029-02-21,False,Official price list document for Sakra World Hospital
+DOCU00031,HOSP007,Sakra World Hospital – Quality Policy,Policy,PDF,1523,2026-01-03,2029-01-17,True,Official quality policy document for Sakra World Hospital
+DOCU00032,HOSP007,Sakra World Hospital – Accreditation Certificate,Certification,PDF,3170,2025-02-08,2027-06-04,True,Official accreditation certificate document for Sakra World Hospital
+DOCU00033,HOSP007,Sakra World Hospital – NABH Certificate,Certification,PDF,2924,2025-05-09,2029-05-29,True,Official nabh certificate document for Sakra World Hospital
+DOCU00034,HOSP008,Aster CMI Hospital – Doctor Registration,License,PDF,2815,2025-12-23,2027-01-04,False,Official doctor registration document for Aster CMI Hospital
+DOCU00035,HOSP008,Aster CMI Hospital – Facility License,License,PDF,3979,2025-03-22,2029-06-23,True,Official facility license document for Aster CMI Hospital
+DOCU00036,HOSP008,Aster CMI Hospital – Visiting Hours Policy,Policy,DOCX,3020,2026-03-19,2027-12-18,True,Official visiting hours policy document for Aster CMI Hospital
+DOCU00037,HOSP008,Aster CMI Hospital – NABH Certificate,Certification,PDF,4541,2025-04-02,2028-03-26,True,Official nabh certificate document for Aster CMI Hospital
+DOCU00038,HOSP009,St. John's Hospital – Accreditation Certificate,Certification,PDF,4760,2024-11-14,2028-01-30,False,Official accreditation certificate document for St. John's Hospital
+DOCU00039,HOSP009,St. John's Hospital – Quality Policy,Policy,PDF,4192,2024-10-11,2029-01-06,True,Official quality policy document for St. John's Hospital
+DOCU00040,HOSP009,St. John's Hospital – Insurance Empanelment,Insurance,PDF,1907,2025-02-26,2027-06-25,True,Official insurance empanelment document for St. John's Hospital
+DOCU00041,HOSP009,St. John's Hospital – Facility License,License,DOCX,3240,2026-01-17,2026-11-13,False,Official facility license document for St. John's Hospital
+DOCU00042,HOSP009,St. John's Hospital – Patient Rights Charter,Policy,PDF,2541,2025-08-30,2027-05-19,True,Official patient rights charter document for St. John's Hospital
+DOCU00043,HOSP010,NIMHANS – Accreditation Certificate,Certification,PDF,4889,2026-05-29,2027-08-25,True,Official accreditation certificate document for NIMHANS
+DOCU00044,HOSP010,NIMHANS – Doctor Registration,License,PDF,361,2026-01-07,2027-09-07,True,Official doctor registration document for NIMHANS
+DOCU00045,HOSP010,NIMHANS – Insurance Empanelment,Insurance,PDF,3202,2026-04-28,2027-06-28,False,Official insurance empanelment document for NIMHANS
+DOCU00046,HOSP010,NIMHANS – Facility License,License,PDF,3148,2025-10-17,2027-09-16,True,Official facility license document for NIMHANS
+DOCU00047,HOSP010,NIMHANS – Visiting Hours Policy,Policy,PDF,1851,2024-10-14,2028-12-16,False,Official visiting hours policy document for NIMHANS
+DOCU00048,HOSP011,Victoria Hospital – Insurance Empanelment,Insurance,DOCX,3184,2024-08-16,2026-12-17,False,Official insurance empanelment document for Victoria Hospital
+DOCU00049,HOSP011,Victoria Hospital – Accreditation Certificate,Certification,DOCX,4385,2026-05-30,2028-07-07,False,Official accreditation certificate document for Victoria Hospital
+DOCU00050,HOSP011,Victoria Hospital – Facility License,License,PDF,2093,2025-10-04,2027-05-17,True,Official facility license document for Victoria Hospital
+DOCU00051,HOSP012,Bowring & Lady Curzon Hospital – NABH Certificate,Certification,PDF,1345,2024-06-27,2028-09-21,True,Official nabh certificate document for Bowring & Lady Curzon Hospital
+DOCU00052,HOSP012,Bowring & Lady Curzon Hospital – Quality Policy,Policy,PDF,596,2025-03-30,2028-03-25,True,Official quality policy document for Bowring & Lady Curzon Hospital
+DOCU00053,HOSP012,Bowring & Lady Curzon Hospital – Accreditation Certificate,Certification,PDF,4700,2026-02-22,2026-09-26,True,Official accreditation certificate document for Bowring & Lady Curzon Hospital
+DOCU00054,HOSP012,Bowring & Lady Curzon Hospital – Facility License,License,DOCX,788,2025-12-23,2026-09-08,True,Official facility license document for Bowring & Lady Curzon Hospital
+DOCU00055,HOSP012,Bowring & Lady Curzon Hospital – Doctor Registration,License,PDF,4818,2025-07-21,2026-11-15,True,Official doctor registration document for Bowring & Lady Curzon Hospital
+DOCU00056,HOSP012,Bowring & Lady Curzon Hospital – Price List,Information,DOCX,3086,2025-05-03,2027-10-17,False,Official price list document for Bowring & Lady Curzon Hospital
+DOCU00057,HOSP013,Sparsh Hospital – Doctor Registration,License,PDF,685,2025-08-30,2027-06-13,True,Official doctor registration document for Sparsh Hospital
+DOCU00058,HOSP013,Sparsh Hospital – Accreditation Certificate,Certification,PDF,4498,2025-07-18,2026-08-03,False,Official accreditation certificate document for Sparsh Hospital
+DOCU00059,HOSP013,Sparsh Hospital – Patient Rights Charter,Policy,PDF,88,2026-04-03,2026-08-27,True,Official patient rights charter document for Sparsh Hospital
+DOCU00060,HOSP013,Sparsh Hospital – Facility License,License,PDF,4462,2026-02-17,2026-08-19,True,Official facility license document for Sparsh Hospital
+DOCU00061,HOSP013,Sparsh Hospital – Price List,Information,PDF,4994,2024-07-31,2029-03-03,True,Official price list document for Sparsh Hospital
+DOCU00062,HOSP014,Cloudnine Hospital – Facility License,License,DOCX,1895,2024-09-16,2028-08-02,False,Official facility license document for Cloudnine Hospital
+DOCU00063,HOSP014,Cloudnine Hospital – NABH Certificate,Certification,PDF,3694,2026-01-09,2027-08-09,False,Official nabh certificate document for Cloudnine Hospital
+DOCU00064,HOSP014,Cloudnine Hospital – Accreditation Certificate,Certification,DOCX,534,2026-03-04,2028-10-20,False,Official accreditation certificate document for Cloudnine Hospital
+DOCU00065,HOSP014,Cloudnine Hospital – Visiting Hours Policy,Policy,DOCX,633,2025-04-09,2028-03-30,False,Official visiting hours policy document for Cloudnine Hospital
+DOCU00066,HOSP015,Motherhood Hospital – NABH Certificate,Certification,PDF,4972,2025-03-23,2028-11-23,True,Official nabh certificate document for Motherhood Hospital
+DOCU00067,HOSP015,Motherhood Hospital – Doctor Registration,License,PDF,1307,2024-09-23,2026-10-05,True,Official doctor registration document for Motherhood Hospital
+DOCU00068,HOSP015,Motherhood Hospital – Facility License,License,DOCX,726,2026-01-04,2027-06-23,False,Official facility license document for Motherhood Hospital
+DOCU00069,HOSP015,Motherhood Hospital – Accreditation Certificate,Certification,DOCX,4561,2024-07-14,2028-07-19,True,Official accreditation certificate document for Motherhood Hospital
