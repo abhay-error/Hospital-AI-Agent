@@ -49,7 +49,7 @@ NumPy
 Installation
 Clone the repository
 
-git clone https://github.com/yourusername/Hospital-AI-Agent.git
+git clone https://github.com/abhar-error/Hospital-AI-Agent.git
 Move into the project
 
 cd Hospital-AI-Agent
